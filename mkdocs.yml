@@ -1,0 +1,7 @@
+site_name: Tabletopia - Русская база знаний
+nav:
+    - Workshop:
+        - Create Games:
+            - Регистрация: workshop/games/filling-in-a-game-form.md
+theme:
+    name: "material"
