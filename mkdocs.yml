@@ -2,6 +2,8 @@ site_name: Tabletopia - Русская база знаний
 nav:
     - Workshop:
         - Create Games:
+            - Как создать игру: workshop/games/how-to-create-game.md
             - Регистрация: workshop/games/filling-in-a-game-form.md
+            - Сетап: workshop/games/game-setups.md
 theme:
     name: "material"
