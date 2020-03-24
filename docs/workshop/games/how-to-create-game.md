@@ -78,45 +78,53 @@
 
 [Подробнее о каталоге объектов](http://help.tabletopia.com/knowledge-base/objects-catalogue/).
 
-### Creating and Editing Setups
+### Создание и редактирование сетапа
 
-Game setups define a set of objects used in a particular variant of the game (e.g. the setup with objects for a 2-player game). Think of it as a setup you make for a physical board game before each gameplay. Find more details about setups in the [Game setups](http://help.tabletopia.com/knowledge-base/game-setups/) article.
-When you have finished adding objects to your game, you can **start creating setups**:
-<ol>
-<li>Go to your game page (Workshop &gt; My Games &gt; &#8220;Your game name&#8221;).</li>
-<li>Click **Create Setup**. A new setup page is opened.</li>
-<li>Specify the number of players, language dependency, winner determination mode, if needed, access level for this setup, etc.. All the options may be changed later on when you need to do so.![create-setup](http://help.tabletopia.com/wp-content/uploads/2016/12/create-setup.png)</li>
-<li>Click **Edit **to open the game client (Unity based, supported browsers: Safari and IE only) in a separate window or tab of your browser and start the actual game creation process. ![setup_editor](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor.png)</li>
-</ol>
-When the game client finishes downloading your setup, the following elements are displayed on the screen:
-<ul>
-<li>Number of **player seats** equal to the maximum number of players you defined for this setup.</li>
-<li>The default universal **rectangular grey table** (80х120 cm) placed in the main area of the setup editor.</li>
-<li>The **Objects browser containing only** **published objects** you have in the “My&#8221; section of the game folder. By default, it shows the opened corresponding game folder.</li>
-</ul>
-![setup_editor_objects_placed](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor_objects_placed.png)
-![setup_editor_main_menu](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor_main_menu.png)
-Here you can adjust the environment in which the game is played (change the size of a table, add a surface or skybox) and then add all the objects needed in the game.
-Drag and drop the objects from the object browser onto the table and put them in the required order. When an object is created, you may manipulate it freely, flip, rotate, set its position and so on. Read more in [Game setups](http://help.tabletopia.com/knowledge-base/game-setups/) and [Interacting with Game Components](http://help.tabletopia.com/knowledge-base/actions-with-game-objects/).
-When you are finished or need to take a break, save the setup and exit:
-<ol>
-<li>Click the Tabletopia logo in the top left corner.</li>
-<li>Click** Save &gt; Exit**.</li>
-</ol>
-You can also save your setup and publish it at once (click** Save &amp; Publish** &gt; **Exit**). Do so when the setup is complete and you want it to be accessible via the player client and played.
-### Publishing Setups
-Typically a setup goes through several states before it gets published.
+Сетап игры определяет набор объектов используемых для конкретной партии (например для 2-х игроков). Думайте о сетапе, как о том, что вы делаете с физической игрой перед каждой партией. Подробнее в статье [Сетап игры](game-setups.md) article.
+
+Когда вы закончите доабавлять объекты вашей игры, можете приступать к **созданию сетапа**:
+
+1. Откройте страницу игры (**Workshop &gt; My Games &gt; &#8220;*Ваша игра*&#8221;**).
+2. Нажмите **Create Setup**. Откроется новый сетап.
+3. Укажите количество игроков, языкозависимость, условия победы, если необходимо, уровень доступа для сетапа итд. Все опции можно будет изменить позже.
+	![create-setup](http://help.tabletopia.com/wp-content/uploads/2016/12/create-setup.png)
+4. Нажмите **Edit ** чтобы открыть игровой клиент в отдельном окне или вкладке и перейти непосредственно к созданию игры.
+	![setup_editor](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor.png)
+
+Когда игровой клиент скачает ваш сетап, на экране будут доступны следующие элементы:
+* Несколько **игровых мест** равное максимальному количеству игроков, которые вы указали при создании сетапа.
+* Универсальный **прямоугольный серый стол** (80х120 см) размещенный в основной части редактора сетапа.
+* **Objects browser** (каталог объектов) содержит только **опубликованные объекты**, которые есть в папке игры в разделе “My&#8221;. По умолчанию, он открывает соответствующую папку.
+	![setup_editor_objects_placed](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor_objects_placed.png)
+
+![setup editor >](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor_main_menu.png)
+
+Здесь вы настраиваете окружение в котором находится игра (размеры стола, его покрытие, а также фон) и добавляете все необходимые объекты для игры.
+
+Перетаскивайте объекты из каталога объектов на стол и размещайте в нужном порядке. После того, как объект создан, вы можете свободно им манипулировать, переворачивать, вращать, устанавливать на позицию и тд. Подробнее читайте в  [Сетап игры](http://help.tabletopia.com/knowledge-base/game-setups/) и [Взаимодействие с игровыми компонентами](http://help.tabletopia.com/knowledge-base/actions-with-game-objects/).
+
+Когда вы закончите или захотите сделать перерыв, сохраните сетап и закройте редактор:
+
+1. Нажмите на логотип Tabletopia в левом верхнем углу.
+2. Нажмите ** Save &gt; Exit**.
+
+Вы также можете сохранить свой сетап и сразу его опубликовать (выберите ** Save &amp; Publish** &gt; **Exit**). Делайте так, когда сетап готов и вы хотите сделать его доступным для игры из игрового клиента.
+
+### Публикация сетапа
+
+Обычно сетап проходит через несколько состояний, прежде чем вы его опубликуете.
+
 ![publishing_states](http://help.tabletopia.com/wp-content/uploads/2015/06/publishing_states.png)
-<ul>
-<li>**In Work:** The first and the initial state of a setup. The setup is not visible to other users and can not be played. If you save the setup (without publishing it), the ‘In Work’ state will be kept.</li>
-<li>**<strong>Publishing:** </strong>A technical step, which is needed to gather all the necessary resources into one setup file and optimize them after you publish it. Usually, it takes from a few seconds to several minutes to complete this step after you click **Publish** on the setup page.</li>
-<li>**Published**: A setup in this state can be played and accessed by other players. When the setup is published, it automatically receives a new increased version number and a new publication date. Note that a setup with its access level set to &#8216;For personal use only&#8217; will be accessible only to you and other players whom you send the link. See also [Opening and Sharing Games](http://help.tabletopia.com/knowledge-base/play-zones/).</li>
-</ul>
-<div class="mceTemp">
+
+* **In Work:** - Первое и изначальное состояние сетапа. Сетап не виден другим пользователям и в него нельзя играть. Если вы сохраняете сетап (без публикации), состояние  ‘In Work’ сохраняется.
+* **Publishing:** - Технический шаг, который необходим, чтобы собрать все необходимые ресурсы в одном файле сетапа и оптимизировать его, после того, как вы его опубликуете. Обычно это занимает от нескольких секунд до нескольких минут, после того как вы нажмете **Publish** на страницу сетапа.
+* **Published**:  В этом состоянии сетап доступен для игры другим пользователям. Когда вы публикуете сетап, его версия и дата публикации автоматически обновляется. Обратите внимание, что сетап с уровнем доступа &#8216;For personal use only&#8217; будет доступен только вам и пользователям, которым вы отправите ссылку на него. См [Игровые зоны или как поделиться сетапом](http://help.tabletopia.com/knowledge-base/play-zones/).
+
 ![setup_statuses](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_statuses.png)
-<ul id="attachment_409" class="wp-caption aligncenter" style="width: 386px;">Example of different setup states on the game page.</ul>
-</div>
-**Important:** If you change and save (**without publishing**) an already published setup, a new version of it will be saved in the ‘In Work’ state. Note that other users may not access this new version, they may see only the old published version. Publish the setup to make the new version visible or to change the [Access level](http://help.tabletopia.com/knowledge-base/user-access-levels/) of the setup.
+Пример различных состояний сетапов на странице игры.
+
+**Внимание:** If you change and save (**without publishing**) an already published setup, a new version of it will be saved in the ‘In Work’ state. Note that other users may not access this new version, they may see only the old published version. Publish the setup to make the new version visible or to change the [Access level](http://help.tabletopia.com/knowledge-base/user-access-levels/) of the setup.
+
 ### Publishing the Game
 Congratulations, your setup is now published! **To make your game available in the Playground:**
 <ol>
