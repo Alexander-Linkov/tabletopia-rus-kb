@@ -121,21 +121,25 @@
 * **Published**:  В этом состоянии сетап доступен для игры другим пользователям. Когда вы публикуете сетап, его версия и дата публикации автоматически обновляется. Обратите внимание, что сетап с уровнем доступа &#8216;For personal use only&#8217; будет доступен только вам и пользователям, которым вы отправите ссылку на него. См [Игровые зоны или как поделиться сетапом](http://help.tabletopia.com/knowledge-base/play-zones/).
 
 ![setup_statuses](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_statuses.png)
+
 Пример различных состояний сетапов на странице игры.
 
-**Внимание:** If you change and save (**without publishing**) an already published setup, a new version of it will be saved in the ‘In Work’ state. Note that other users may not access this new version, they may see only the old published version. Publish the setup to make the new version visible or to change the [Access level](http://help.tabletopia.com/knowledge-base/user-access-levels/) of the setup.
+**Внимание:** Если вы изменяете и сохраняете (**без публикаци**) уже опубликованный сетап, новая версия будет сохранена в состоянии ‘In Work’. В этом случае другие пользователи не получат доступ к новой версии, они увидят только старую опубликованную версию. Опубликуйте сетап, чтобы новая версия стала видима или измените [уровень доступа](http://help.tabletopia.com/knowledge-base/user-access-levels/) сетапа.
 
-### Publishing the Game
-Congratulations, your setup is now published! **To make your game available in the Playground:**
-<ol>
-<li>Go to the game page: Workshop &gt; My Games &gt; &#8220;Your game name&#8221;.</li>
-<li>Select setups you want to publish: click the setup to open its page.</li>
-<li>Set setup Access to ‘Available to all users’ &gt; **More** &gt; **Publish**.</li>
-<li>On the game page click **Edit**.</li>
-<li>Set game Access to ‘Available to all users’ &gt; **Save**.</li>
-<li>Contact [support@tabletopia.com](mailto:support@tabletopia.com) for our moderators to review and open your game to other players. Read [Opening and Sharing Games](http://help.tabletopia.com/knowledge-base/play-zones/) for details.</li>
-</ol>
-If you are keeping your game and setup ‘For private use only’, you may still test and share your setups by using the links in the Setups section of your game page. Read [Opening and Sharing Games](http://help.tabletopia.com/knowledge-base/play-zones/) for details.
-								<div class="tags">
-					</div>
-				</div>
+### Публикация игры
+
+Поздравляем, ваш сетап опубликован! **Чтобы игра стала доступна в Playground:**
+
+1. Перейдите на страницу игры: **Workshop &gt; My Games &gt; *&#8220;Ваша игра&#8221;***.
+
+2. Кликните по сетапу который хотите опубликовать. 
+
+3. Установите уроверь доступа ‘Available to all users’ &gt; **More** &gt; **Publish**.
+
+4. На странице игры нажмите **Edit**.
+
+5. Установите уровень доступа ‘Available to all users’ &gt; **Save**.
+
+6. Напишите [support@tabletopia.com](mailto:support@tabletopia.com), чтобы наши модераторы просмотрели и открыли доступ другим пользователям. Подробнее читайте в статье [Как поделиться игрой](http://help.tabletopia.com/knowledge-base/play-zones/).
+
+Если вы оставите уровень доступа для игру и сетапа ‘For private use only’, вы сможете тестировать и делится сетапом используя ссылку в разделе Setups на странице игры. Подробнее читайте в статье [Как поделиться игрой](http://help.tabletopia.com/knowledge-base/play-zones/).
