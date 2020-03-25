@@ -117,35 +117,34 @@ Tabletopia поддерживает два формата изображений
 
 * **Качество.** JPEG - это метод сжатия данных цифровых изображений с потерями, поэтому такие изображения обладают ухудшеным качеством. Он не очень хорошо подходит при отображении линий, текстов и иконографики.
 	![21](http://help.tabletopia.com/wp-content/uploads/2015/06/21.png)
-* **Small palette bigger file size.** Note that if an image has a small number of colors in its palette, a JPEG file may have bigger size than the corresponding PNG file.
-* **Rectangular shape.** JPEG files does not support alpha channel transparency, so it is not possible to create objects with round edges or a complex shape.</li>
-
+* **Больший размер файла при меньшей политре.** Имейсте ввиду, что если изображение состоит из небольшого количества цветов, JPEG файл может иметь больший размер файла, чем PNG файл.
+* **Прямоугольная форма.** JPEG файлы не поддерживают альфа канал прозрачности, поэтому их нельзя использовать для создания объектов с закругленными углами или более сложных форм.
 
 ### .PNG
 
-PNG image files are well suited and prefered in most cases for all of the objects in the game. This format is especially useful if you want to create objects of complex shape.
+PNG файлы хорошо подходят и предпочтительны в большинстве случаев для всех объектов в игре. Этот формат особенно полезен, если вам необходимо создать объект сложной формы.
 
-**Pros:**
+**Плюсы:**
 
-* **Complex shape.** The most useful application of .PNG format is to create objects of complex shape with transparent parts. One restriction still applies: There may not be transparency inside a closed image contour.
+* **Сложная форма.** Большинство применений .PNG формата - создание объектов сложной формы с прозрачными участками. Однако есть ограничение: Прозрачность не применяется, если находится внутри замкнутого контура непрозрачного участка изображения. 
 
 	![22](http://help.tabletopia.com/wp-content/uploads/2015/06/22.png)
-	Evolution: The Origin of Species player board, opened in the graphical editor shows the broken contour of the image to allow transparency inside.
+	Планшет игрока в игре "Эволюция: The Origin of Species". Если открыть файл в графическом редакторе, видно, что здесь нет замкнутого контура, что позволяет сделать прозрачность внутри.
 
 	![24](http://help.tabletopia.com/wp-content/uploads/2015/06/24.png)
 
-	Unfortunately images which consist of several parts divided by transparent areas cannot be correctly recognized by the system. There are two possible solutions available in this case:
+	К сожалению изображения, которые содержат несколько частей, разделенных прозрачными участкоми не могут быть корректно обработаны Tabletopia. В этом случае можно поступить следующим образом:
 
-	1. Make the area between parts of the image non-transparent (you can try to make it of the same color as the surface or board).
-	2. Consider creating several different images, each image containing only one part of the initial image. Thus you will need to combine all the parts in the setup by hand.
+	1. Сделать промежуточную область непрозрачной (вы можете сделать ее того же цвета что и поверхность игрового стола).
+	2. Создайте несколько разных изображений, каждое из которых содержит отдельную часть изначального изображения. Однако в этом случае вам придется скомпоновать все части вместе внутри сетапа вручную.
 
-	Also note that the parts of the image with inner angles (e.g. the mouth area of ‘Pac-man’ style game token) support only visual transparency. Those areas act as a part of an object even if they are transparent.
+	Также имейте ввиду, что части изображения с острыми углами (например жетоны в виде персонажа игры ’Pac-man’) обладают условную прозрачностью. Такие участки будут восприниматься как часть предмета, несмотря на то, что они прозрачны.
 
-* **Quality.** PNG is a lossless image file format, so your exported image will not lose quality compared to the original. Sometimes it may even be smaller than a corresponding JPEG alternative.
+* **Качество.** PNG - формат сжатия данных изображения без потерь, что позволяет сохранять изображения в том же качетсве, что и оригинал. В некоторых случаях, размер файла может быть даже меньше, чем аналогичный файл JPEG.
 
-**Cons:**
+**Минусы:**
 
-* **Size.** In most cases the size of the PNG file is several times bigger than the JPEG file. Consider using scaling and/or JPEG files for game boards and other big objects.
+* **Размер.** В большинстве случаев размер PNG файла в несколько раз больше, чем JPEG файл. Попробуйте применить масштабирование или сохрание в  JPEG для игровых полей и других больших объектов.
 
 ## Useful Tips
 
