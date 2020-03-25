@@ -146,18 +146,22 @@ PNG файлы хорошо подходят и предпочтительны �
 
 * **Размер.** В большинстве случаев размер PNG файла в несколько раз больше, чем JPEG файл. Попробуйте применить масштабирование или сохрание в  JPEG для игровых полей и других больших объектов.
 
-## Useful Tips
+## Полезные советы
 
-<ul>
-<li>**The most convenient browser** for publishing of graphic files is Opera.</li>
-<li>**Make borders for the components** (especially cards) that will be taken by players into their hand. It adds a 3D look to them and helps to visually distinguish one from another.</li>
-</ul>
-<figure id="attachment_474" style="width: 578px" class="wp-caption aligncenter">![33](http://help.tabletopia.com/wp-content/uploads/2015/06/33.png)<figcaption class="wp-caption-text">Classic cards in Tabletopia have dark borders</figcaption></figure>
-<ul>
-<li id="overbright">**Don&#8217;t make components overbright.** There is a source of light in the system and some images with high initial brightness may not look good. Test your objects in the preview mode, also you may place them all on the table and review them before creating the game setup.</li>
-</ul>
-<figure id="attachment_1021" style="width: 569px" class="wp-caption aligncenter">![Overbright effect](http://help.tabletopia.com/wp-content/uploads/2015/11/Nations-overbright.png)<figcaption class="wp-caption-text">Yellow is very prone to being overbright.</figcaption></figure>
-<ul>
-<li id="dark">**Don&#8217;t make components too dark.** Special attention must be given to vertical tokens. It is ![35](http://help.tabletopia.com/wp-content/uploads/2015/06/35.png)better to increase the brightness of images used in vertical tokens.</li>
-<li id="distinguishable">Make the components **easily distinguishable from one another at the mid-range distance from the table**. If you use images that are too small or images with thin lines on a similarly colored background, they may look much alike to each other even from a low camera view and the players may become confused</li>
-</ul>
+* **Самый удобный браузер** для публикации файлов изображений - Opera.
+* **Делайе кайму для компонентов** (особенно карт) которые игроки могут брать в руки. Это добавит им объема, а также поможет визуально отличить один компонент от другого.
+
+![33](http://help.tabletopia.com/wp-content/uploads/2015/06/33.png)У классический игральных карт в Tabletopia есть темное обрамление.
+
+* **Не делайте компоненты слишком светлыми.** В Tabletopia есть источник освещения и изначально светлые изображения могут выглядить плохо. Посмотрите на свой объект в режиме предпросмотра. Также вы можете разместить все компоненты на столе прежде чем создавать сетап игры.
+
+![Эффект слишком светлых компонентов](http://help.tabletopia.com/wp-content/uploads/2015/11/Nations-overbright.png)
+Желтые компоненты склонны быть слишком светлым.
+
+* **Не делайте компоненты слишком темными.** Особое внимане следует обратить на вертикальные токены. 
+	
+	Лучше повысить яркость изображений для вертикальных токенов.
+
+* Делайте компоненты **легко отличаемым и друг от друга на среднем расстоянии от стола**. Если использовать очень маленькие изображения или изображения с тонкими линиями на схожем фоне, они могут выглядеть похожими друг на друга даже при приближении, что запутает игроков.
+
+	![35](http://help.tabletopia.com/wp-content/uploads/2015/06/35.png)
