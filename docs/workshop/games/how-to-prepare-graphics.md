@@ -74,61 +74,81 @@
 
 ### Размер объектов
 
-**Maximum size of one continuous one-sided object** in the system is **1600&#215;1600 mm** using the scaling maxed to 400% (or 400&#215;400 mm with scaling set at 100%).
-**Tip:** Try not to exceed the image size of 2000&#215;2000 pixels for each object. The system performance is better when the size is lesser.
-**Maximum file size** you can upload is **30 MB**, but you should try to keep it **not more than 1-2 MB** for the optimal performance.
-**Tip:** In a rare situation when you need a bigger object (e.g. gigantic game board) contact [Tabletopia’s Support](mailto:support@tabletopia.com). We will help you to find the optimal solution to this problem if it is possible.
-### Setup Size
-**Recommended setup file size is max 20 MB.** The following recomendations will help you reduce the size of your setup:
-<ul>
-<li>The quality of images should be good enough to read from and discern one image from another, but not too high.</li>
-<li>Use the same image several times in the setup (e.g. back image of the deck of cards), it will be added only once and the size will be adjusted accordingly.</li>
-<li>![19](http://help.tabletopia.com/wp-content/uploads/2015/06/19.png)Decrease the size in pixels of the big images and scale them up by editing the settings of each image in Tabletopia’s system.</li>
-<li>Use JPEG images instead of PNG to decrease the size of the image when you do not need to set a complex shape.</li>
-<li>Split the game to several setups for different number of players or for different sets of components, see [Game Setups](http://help.tabletopia.com/knowledge-base/game-setups/) for details.</li>
-</ul>
-## Image File Formats
-Tabletopia allows two different image file formats to be used in the game: .JPEG and .PNG.
-### 
-**Uses:**
-<ul>
-<li>**Photographic images.** The quality of the image is quite good and the size of the file is not as big as PNG.</li>
-<li>**Very large game boards,** when the size optimization is more important than the quality of the image.</li>
-</ul>
-Note that you can use JPEG images for **rectangular** **objects** only.
-**Pros:**
-<ul>
-<li>**Size.** Generally the size of a JPEG image is lower than the size of a corresponding PNG image, exported from the same source.</li>
-</ul>
-<figure id="attachment_459" style="width: 1000px" class="wp-caption alignnone">![20-1](http://help.tabletopia.com/wp-content/uploads/2015/06/20-1.png)<figcaption class="wp-caption-text">Terra Mystica’s game board may be shrunk in size from 15.2 down to 2.9 megabytes by using JPG instead of PNG.</figcaption></figure>
-**<br />
-Cons:**
-<ul>
-<li>**![21](http://help.tabletopia.com/wp-content/uploads/2015/06/21.png)<strong>Quality.** </strong>JPEG is a method of lossy compression for digital images, so it provides less quality. It is not well suited for line drawings and other textual or iconic graphics.</li>
-<li>**Small palette bigger file size.** Note that if an image has a small number of colors in its palette, a JPEG file may have bigger size than the corresponding PNG file.</li>
-<li>**Rectangular shape.** JPEG files does not support alpha channel transparency, so it is not possible to create objects with round edges or a complex shape.</li>
-</ul>
-### 
+**Максимально допустимый размер объекта с одной стороной - 1600&#215;1600 mm** с использованием масштабирования до 400% (или 400&#215;400 мм с масштабом 100%).
+
+>**Совет:** Постарайтесь не превышать размер 2000&#215;2000 пикселей для каждого объекта. Производительность Tabletopia лучше, при использовании изображений меньшего размера.
+
+**Максимальный размер файла** который вы можете загрузить - **30 MB**, но лучше стараться **не превышать 1-2 MB** для максимальной производительности.
+
+> **Совет:** В редких случаях когда необходимы большие объекты (например гигантское игровое поле) обратитесь в [поддержку Tabletopia](mailto:support@tabletopia.com).
+
+### Размер сетапа
+
+**Рекомендованный размер файла сетапа - 20 MB максимум.** Следующие советы помогут вам уменьшить его:
+
+* Качество изображений должно быть достаточное, чтобы прочитать текст или отличить одно изображение от другого, но не слишком высоким.
+* Используйте одно изображение несколько раз в сетапе (напрмер рубашку для колоды карт). Изображение будет добавлено только один раз, что снизит размер сетапа.
+* Уменьшите размеры больших изображений и увеличьте их масштаб в Tabletopia.
+	![19](http://help.tabletopia.com/wp-content/uploads/2015/06/19.png)
+* Используйте  JPEG вместо PNG, чтобы уменьшить размер картинки, если вам не нужна не прямоугльная форма объекта.
+* Разделите игра на несколько сетапов, для различного количества игроков, или с различным набором компонентов. Подробнее читайте в статье [Сетапы игры](http://help.tabletopia.com/knowledge-base/game-setups/)
+
+## Форматы файла изображения
+
+Tabletopia поддерживает два формата изображений: .JPEG and .PNG.
+
+### .JPEG
+
+**Применение:**
+
+* **Фотографические объекты.** Хорошее качество и не такой большой размер как .PNG файл.
+* **Очень большие поля,** когда размер оптимизации важнее чем касество изображения.
+
+Имейте ввиду, что в  JPEG изображения **только для прямоугольных объектов**.
+
+**Плюсы:**
+
+* **Размер.** Обычно размер JPEG изображения меньше, по сравнению с PNG файлом, полученным из этого же источника.
+
+![20-1](http://help.tabletopia.com/wp-content/uploads/2015/06/20-1.png)
+Размер изображения игровое поле игры Terra Mystica может быть уменьшено с 15.2 до 2.9 мегабайт при использовании JPG вместо PNG.
+
+**Минусы:**
+
+* **Качество.** JPEG - это метод сжатия данных цифровых изображений с потерями, поэтому такие изображения обладают ухудшеным качеством. Он не очень хорошо подходит при отображении линий, текстов и иконографики.
+	![21](http://help.tabletopia.com/wp-content/uploads/2015/06/21.png)
+* **Small palette bigger file size.** Note that if an image has a small number of colors in its palette, a JPEG file may have bigger size than the corresponding PNG file.
+* **Rectangular shape.** JPEG files does not support alpha channel transparency, so it is not possible to create objects with round edges or a complex shape.</li>
+
+
+### .PNG
+
 PNG image files are well suited and prefered in most cases for all of the objects in the game. This format is especially useful if you want to create objects of complex shape.
+
 **Pros:**
-<ul>
-<li>**Complex shape.** The most useful application of .PNG format is to create objects of complex shape with transparent parts. One restriction still applies: There may not be transparency inside a closed image contour.</li>
-</ul>
-<figure id="attachment_463" style="width: 1016px" class="wp-caption aligncenter">![22](http://help.tabletopia.com/wp-content/uploads/2015/06/22.png)<figcaption class="wp-caption-text">Evolution: The Origin of Species player board, opened in the graphical editor shows the broken contour of the image to allow transparency inside.</figcaption></figure>
-![24](http://help.tabletopia.com/wp-content/uploads/2015/06/24.png)Unfortunately images which consist of several parts divided by transparent areas cannot be correctly recognized by the system. There are two possible solutions available in this case:
-<ol>
-<li>Make the area between parts of the image non-transparent (you can try to make it of the same color as the surface or board).</li>
-<li>Consider creating several different images, each image containing only one part of the initial image. Thus you will need to combine all the parts in the setup by hand.</li>
-</ol>
-Also note that the parts of the image with inner angles (e.g. the mouth area of ‘Pac-man’ style game token) support only visual transparency. Those areas act as a part of an object even if they are transparent.
-<ul>
-<li>**Quality.** PNG is a lossless image file format, so your exported image will not lose quality compared to the original. Sometimes it may even be smaller than a corresponding JPEG alternative.</li>
-</ul>
+
+* **Complex shape.** The most useful application of .PNG format is to create objects of complex shape with transparent parts. One restriction still applies: There may not be transparency inside a closed image contour.
+
+	![22](http://help.tabletopia.com/wp-content/uploads/2015/06/22.png)
+	Evolution: The Origin of Species player board, opened in the graphical editor shows the broken contour of the image to allow transparency inside.
+
+	![24](http://help.tabletopia.com/wp-content/uploads/2015/06/24.png)
+
+	Unfortunately images which consist of several parts divided by transparent areas cannot be correctly recognized by the system. There are two possible solutions available in this case:
+
+	1. Make the area between parts of the image non-transparent (you can try to make it of the same color as the surface or board).
+	2. Consider creating several different images, each image containing only one part of the initial image. Thus you will need to combine all the parts in the setup by hand.
+
+	Also note that the parts of the image with inner angles (e.g. the mouth area of ‘Pac-man’ style game token) support only visual transparency. Those areas act as a part of an object even if they are transparent.
+
+* **Quality.** PNG is a lossless image file format, so your exported image will not lose quality compared to the original. Sometimes it may even be smaller than a corresponding JPEG alternative.
+
 **Cons:**
-<ul>
-<li>**Size.** In most cases the size of the PNG file is several times bigger than the JPEG file. Consider using scaling and/or JPEG files for game boards and other big objects.</li>
-</ul>
+
+* **Size.** In most cases the size of the PNG file is several times bigger than the JPEG file. Consider using scaling and/or JPEG files for game boards and other big objects.
+
 ## Useful Tips
+
 <ul>
 <li>**The most convenient browser** for publishing of graphic files is Opera.</li>
 <li>**Make borders for the components** (especially cards) that will be taken by players into their hand. It adds a 3D look to them and helps to visually distinguish one from another.</li>
