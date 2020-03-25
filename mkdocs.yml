@@ -3,6 +3,7 @@ nav:
     - Workshop:
         - Create Games:
             - Как создать игру: workshop/games/how-to-create-game.md
+            - Подготовка изображений: workshop/games/how-to-prepare-graphics.md
             - Регистрация: workshop/games/filling-in-a-game-form.md
             - Сетап: workshop/games/game-setups.md
 theme:
