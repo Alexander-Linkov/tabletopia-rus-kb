@@ -9,5 +9,6 @@ nav:
         - Создание объектов:
             - Типы объектов: workshop/objects/game-objects-types.md
             - Регистрация игрового объекта: workshop/objects/how-to-fill-in-an-object-form.md
+            - Каталог объектов: workshop/objects/objects-catalogue.md
 theme:
     name: "material"

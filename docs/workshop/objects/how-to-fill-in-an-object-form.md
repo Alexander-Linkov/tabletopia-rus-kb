@@ -1,25 +1,39 @@
 # Регистрация игрового объекта	
 
-This article provides detailed information on all fields you need to fill when creating an object. Note that you can later change any of this information.
-## Upload
-Upload options are different for various objects. See [Types of Game Objects](http://help.tabletopia.com/knowledge-base/game-objects-types/) for details on various objects and how to create them. The common features available for almost all objects include:
-**![object-details2](http://help.tabletopia.com/wp-content/uploads/2017/02/object-details2.png)Front &amp; Back Images. **Drag and drop your object&#8217;s images to the Front and Back section. The images should have the same shape and resolution and be in .PNG or &gt;JPEG. Adjust the slider to scale the size of the object on the game table. See [How to Prepare Graphics](http://help.tabletopia.com/knowledge-base/how-to-prepare-graphics/) to learn about scaling, size of images, etc.
-**Configure Magnetic Map.** For some objects you can add magnetic maps, see [How to Create a Magnetic Map](http://help.tabletopia.com/knowledge-base/magnetic-map/).
-**Size in Hand.** This parameter determines size of the object in players’ hand. All the objects in hand are resized by their width. So the wide objects (e.g. cards) may become too small. Try to change this parameter for the object if it is too small in hand or too large.
-**Customize Sounds.** If you have Advanced or Pro plan, you can change the sounds played when players interact with the object. See [Custom Sounds](http://help.tabletopia.com/knowledge-base/custom_sounds/) for details.
-## Fill
-Fill the details of your object in the right-hand panel. Here’s the list of all available parameters:
-**![object-details](https://help.tabletopia.com/wp-content/uploads/2019/12/object-details-14.12.19.png)Name.** The main name of the object. Must correspond with the chosen language for the object or be in English.
-Do not use names like &#8216;1&#8217;, &#8216;2&#8217;, &#8216;3&#8217; or &#8216;aaa&#8217;, rather use the name used in the game for this type of objects.
-*For example, if you have the Action cards deck, name them &#8216;Action Card 01 for %YourGameName%&#8217;, &#8216;Action Card 02 for %YourGameName%&#8217;, &#8216;Action Card 03 for %YourGameName%&#8217; and so on. *
-Do not add the name of your game to the name of the object.
-**Alternative Name.** Used for synonyms and translations. You can enter several alternative names separated by commas.
-**Language. **If text information on object is important for gameplay, select the language of that text. If it’s not important, or there’s no text, you may leave this parameter as “Language Independent”.
-**URL.** Set the unique URL for the object.
-**Description.** Enter some useful information, like the story of how you made the object, tips how to use it, etc.
-**Creative Commons.** Check to publish your object under the Creative Commons License ([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)) and allow it to be to be duplicated and used by other users.
-## Publishing and Saving
-When you are done with filling the form, adding images and sounds, click **Publish** at the bottom of the screen. Your object will become available for creating some cool board games!<br />
+В этой статье подробно рассматривается поля формы, которые вам необходимо заполнить при создании объекта. Позже вы сможете изменить указанные данные.
+
+## Раздел Upload
+
+![object-details2](http://help.tabletopia.com/wp-content/uploads/2017/02/object-details2.png)
+
+Параметры секции Upload различаются для разных объектов. В статье [Типы игровых объектов](game-objects-types.md) вы найдете подробности о каждом объекте и как их создать. Основные параметры, доступные почти для всех объектов включают:
+
+* **Front &amp; Back Images. ** Перетащите изображения вашего объекта в раздел Front and Back. Изображения должны быть одной формы и разрешением, а также сохранены в форматах .PNG или .JPEG. Используйте полозунок чтобы изменить масштаб объекта на игровом столе. Подробнее о масштабировании, размере изображений ит.д. читайте в статье [Подготовка графики](../games/how-to-prepare-graphics.md).
+* **Configure Magnetic Map.** Для некоторых объектов вы можете сделать магнитную карту (подробнее читайте в статье [Магнитная карта](http://help.tabletopia.com/knowledge-base/magnetic-map/).
+* **Size in Hand.** Этот параметр определяет размер объекта в руке игрок. Все объекты в руке игрока изменяются в ширине. Поэтому широкие объекты (например карты) могут быть слишком маленькими. Измените этот параметр для объектов которые слишком маленькие или слишком большие.
+* **Customize Sounds.** Если у вас подписка Advanced или Pro, вы также можете изменить звук проигрываемый Tabletopia когда игрок взаимодействует с объектом. Подробнее читайте в статье [Нестандартные звуки](http://help.tabletopia.com/knowledge-base/custom_sounds/).
+
+## Раздел Fill
+
+![object-details](https://help.tabletopia.com/wp-content/uploads/2019/12/object-details-14.12.19.png)
+Укажите данные вашего объекта в правой панели. Ниже представлен список доступных параметов:
+
+* **Name.** Основное название объекта. Должен соответствовать указанному языку или быть на Английском.
+	Вместо имен вроде &#8216;1&#8217;, &#8216;2&#8217;, &#8216;3&#8217; или &#8216;aaa&#8217;, используйте название объекта этого типа в игре.
+	> Например, если у вас есть колода карт действий (Action cards deck), назовите карты в ней &#8216;Action Card 01, &#8216;Action Card 02, &#8216;Action Card 03 и т.д.
+	Не добавляйте название игры в название
+* **Alternative Name.** Используйте для синонимов и переводов. Несколько названий можно ввести через запятую.
+* **Language.** Если текстовая информация важна для игрового процесса, укажите язык текста. Если текст не важен, или на объекте нет текста, оставьте параметр как “Language Independent” (Языконезавим).
+* **URL.** Укажите уникальный адрес объекта.
+* **Description.** Задайте полезное описание, например как вы делали этот объект, или советы как его использовать, и проч.
+* **Creative Commons.** Отметьте, чтобы опубликовать ваш объект с лицензией Creative Commons  ([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)) и разрешить другим пользователям дублировать его и использовать.
+
+## Сохранение и публикация
+
+Когда вы заполните форму, добавите изображения и звуки, нажмите **Publish** внизу страницы. Ваш объект станет доступен для создания крутых настольных игр!
+
 ![Publish and Save buttons](http://help.tabletopia.com/wp-content/uploads/2015/07/publish_save.png)
-Save the object if you plan on editing it further before making in it available.
-Note that you must publish an object before using it in a game.
+
+Нажмите **Save**, чтобы сохранить объект, если вы планируете редактировать еще, перед тем как опубликовать.
+
+Обратите внимание, что вам необходимо опубликовать объект, прежде чем использовать его в игре.
