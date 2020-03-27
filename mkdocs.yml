@@ -2,13 +2,13 @@ site_name: Tabletopia - Русская база знаний
 nav:
     - Workshop:
         - Создание игры:
-            - Как создать игру: workshop/games/how-to-create-game.md
-            - Подготовка изображений: workshop/games/how-to-prepare-graphics.md
-            - Регистрация: workshop/games/filling-in-a-game-form.md
-            - Сетап: workshop/games/game-setups.md
+            - workshop/games/how-to-create-game.md
+            - workshop/games/how-to-prepare-graphics.md
+            - workshop/games/filling-in-a-game-form.md
+            - workshop/games/game-setups.md
         - Создание объектов:
-            - Типы объектов: workshop/objects/game-objects-types.md
-            - Регистрация игрового объекта: workshop/objects/how-to-fill-in-an-object-form.md
-            - Каталог объектов: workshop/objects/objects-catalogue.md
+            - workshop/objects/game-objects-types.md
+            - workshop/objects/how-to-fill-in-an-object-form.md
+            - workshop/objects/objects-catalogue.md
 theme:
     name: "material"

@@ -11,76 +11,101 @@
 
 ## Основные разделы
 
-The Objects catalog consists of four sections: My, Bookmarks, Featured and Sandbox.
-### 
-&#8216;My&#8217; section is automatically created for each user registered in the system. The purpose of this section is to store the objects used in the games created by a particular user. When a user creates a new game, a game group is automatically created and linked to the game.
+Каталог объектов состоит из четырех секций: My, Bookmarks, Featured и Sandbox.
+
+### Секция &#8216;My&#8217;
+
+Секция &#8216;My&#8217; создается автоматически для каждого пользователя зарегестрированного в Tabletopia. Цель секции - хранение объектов используемых в играх созданных пользователем. Когда пользователь создает нвую игру, автоматически создается группа игры и привязывается к ней.
+
 ![4](http://help.tabletopia.com/wp-content/uploads/2015/06/41.png)
-**Tip:** Put all the objects you use in the game into its corresponding folder. Do not keep the objects from one game in the other game group or in the root of your ‘My’ section.<br />
-**Tip:** Use subgroups to keep all the objects of one type stored together. It helps better understand the structure of the game and it also makes it possible to use a Random elements, see [Randomizers: Stacks, Bags, and Random Elements](https://help.tabletopia.com/knowledge-base/randomizers/).
-Please note, that when you create a setup in the setup editor you will have access only to published objects in your ‘My’ section. So do not forget to copy any third-party created objects from Featured or Sandbox sections to &#8216;My&#8217;.
-### Bookmarks
-The Bookmarks section contains all the objects and groups you have selected in other sections to have a quick access to them.
-**To add an object to Bookmarks,** click the flag icon in the right bottom corner, it will change its color to and become bookmarked.
+
+> **Совет:** Помещайте все объекты, которые вы используете в игре в соответствующую папку. Не держите объекты от одной игры в папке другой игры или в корневой папке секции ‘My’.
+>
+> **Совет:** Используйте подгруппы, чтобы держать все объекты одного типа вместе. Это поможет лучше понимать структуру игры, а также позволит использовать элемент случайности (подробнее смотрите в [Рандомайзеры: Колоды, Мешки, и Случайный элемент](https://help.tabletopia.com/knowledge-base/randomizers/).
+
+Имейте ввиду, что при создании сетапа вы сможете использовать только опубликованные объекты из вашей секции  ‘My’. Не забывайте копировать объекты других пользователей из секций Featured или Sandbox.
+
+### Секция Bookmarks (Закладки)
+
+Секция Bookmarks содержит все объекты и группы которые вы отметили в других секциях для быстрого доступа.
+
+**Чтобы добавить объект в секцию Bookmarks,** нажмите на иконку флага в верхнем правом углу - флаг изменит свой цвет, и объект будет добавлен в закладки.
+
 ![bookmarks_section](http://help.tabletopia.com/wp-content/uploads/2015/06/bookmarks_section.png)
-### Featured
-The Featured section contains the objects which were chosen by Tabletopia’s staff to provide the authors with the most useful and common objects which can be used in various games.
-**Tip:** Always look through the Featured section before creating your objects. It is likely that you will find the object that could serve as a convenient substitute there. Of course it does not apply to your unique objects with your art, texts etc.
+
+### Секция Featured
+
+В секции Featured находятся объекты выбранные сотрудниками Tabletopia, чтобы предоставить авторам доступ к наиболее полезным и используемым объектам, которые могут быть использованы в разных играх.
+
+> **Совет:** Всегда просматривайте секцию Featured прежде чем создать свой объект. Возможно, что вы найдете объект, который удовлетворит ваши нужды. Конечно, это не применимо для объектов с вашим уникальным изображением, текстом ит.д.
+
 ![5_1](http://help.tabletopia.com/wp-content/uploads/2015/06/5_1.png)
-### Sandbox
-The Sandbox section contains all the objects which are uploaded by users and Tabetopia’s staff published under the Creative Commons license. Use this section to choose from even more objects that are available in the Featured section.
-## Actions in Catalog
-Catalog is mainly used to browse for objects and viewing group and object details.
-### Filtering and Setting the Order of View
-Use options in the header to filter through objects by different parameters, types, languages, or name/modification date:
+
+### Секция Sandbox
+
+В секции Sandbox находятся все объекты которые созданы пользователями Tabetopia или ее сотрудниками и опубликованы под лицензией Creative Commons. В этой секции вы сможете найти еще больше объектов, чем в секции Featured.
+
+## Действия в каталоге
+
+В основном вы используете каталог чтобы просмотреть объекты или группы объектов и их подробности.
+
+### Фильтрация и сортировка
+
+Используйте опции в верхней части страницы, чтобы отфильтровать объекты по различным параметрам, типу, языку, или отсортироваить по имени или дате обновления:
 ![7](http://help.tabletopia.com/wp-content/uploads/2015/06/71.png)
-### Browsing and Viewing Group Details
-You may browse the groups in these sections and view their details.
+
+### Просмотр групп
+
+Во всех секциях вы можете просматривать группы. Подробная информация о групппе указана под списком фильтров:
+
 ![12](http://help.tabletopia.com/wp-content/uploads/2015/06/121.png)
-When you browse a group you may find an information block about the group under the filters field:
-<ol>
-<li>Cover of the current group</li>
-<li>Breadcrumbs to keep track of your current location in the catalog</li>
-<li>Name of the group with the bookmarks icon</li>
-<li>Optional link to edit the group (if it is your own group), there may also be a link to delete the group if it is not the group of the game</li>
-<li>Objects types and its quantity present in this group and in all its subgroups.</li>
-</ol>
-### Viewing Object Details
-You can view objects details by clicking on them.
+
+
+1. Обложка группы.
+2. Путь до текущей группы в каталоге.
+3. Имя группы и флаг закладки.
+4. Если это ваша группа, то ее можно отредактировать или удалить, если это не группа игры.
+5. Типы и количество объектов в этой папке и подпапках.
+
+### Просмотр подробностей объекта
+
+Подробности объекта можно увидеть кликнув по нему.
+
 ![13](https://help.tabletopia.com/wp-content/uploads/2019/12/131-14.12.19.png)
-<ul>
-<li>**Upper part of the object page**:
-<ul>
-<li>main and alternative names</li>
-<li>icon of the Creative Commons license if the object is covered by it</li>
-<li>size and type of the object</li>
-<li>language</li>
-<li>bookmark icon</li>
-<li>state of the object (In Work, Published)</li>
-<li>version and/or date of the last publication/modification.</li>
-</ul>
-</li>
-<li>**Middle part:** images of the object and its description if available.</li>
-<li>**Lower part:** groups and games which contain this object.</li>
-<li>**Right part:**
-<ul>
-<li>**Preview** button to examine the object in the game client</li>
-<li>Credits block</li>
-<li>**Edit** and **More** buttons which allow you to open the setup editor of this object, publish, duplicate or delete it, if it is an object ceated by you. There is a link to the last published version under the Credits block.</li>
-<li>**Add to ‘My’** button which allows you to copy the object to your ‘My’ section, if it is not an object created by you.</li>
-</ul>
-</li>
-</ul>
-### Creating Objects
-**To create a new object,** click **Create Object** in the upper right part of the screen and select the type of the created object.
-See the following articles for more info: [Types of Game Objects](http://help.tabletopia.com/knowledge-base/game-objects-types/), [How to Fill In an Object Form](http://help.tabletopia.com/knowledge-base/how-to-fill-in-an-object-form/), [Game Setups](http://help.tabletopia.com/knowledge-base/game-setups/).
+
+* **Верхняя часть страницы объекта**:
+* * Основное и алтернативные имена
+* * Иконка лицензии Creative Commons, если она плкрывает объект
+* * размер и тип объекта
+* * язык
+* * иконка закладки
+* * состояние объекта (In Work (не закончен), Published (опубликован))
+* * версия и\или дата последней публикации\модификации
+* **Средняя часть**: изображение объекта и его описание, если есть.
+* **Нижняя часть**: группы и игры, в которых используется этот объект.
+* **Правая часть**:
+* * **Preview** - нажмите чтобы посмотреть, как объект выглядит в клиенте игры.
+* * **Credits** - создатели объекта.
+* * кнопки **Edit** и **More** открывают редактор сетапа для объекта, а также позволяют опубликовать, скопировать или удалить объект, если он создан вами. Также есть сслыка на последнюю опубликованную версию под блоком **Credits**.
+* * кнопка **Add to ‘My’** копирует объект в вашу ссекцию ‘My’, если этот объект был создан другим пользователем.
+
+### Создание объекта
+
+**Чтобы создать объект**, нажмите **Create Object** в верхней правой части экрана и выберете тип создаваемого объекта. Подробнее читайте в статье [Типы игровых объектов](game-objects-types.md), [Регистрация игрового объекта](how-to-fill-in-an-object-form.md), [Сетап игры](../games/game-setups.md).
+
 ![39](http://help.tabletopia.com/wp-content/uploads/2015/06/39.png)
-## 
-You can create folders and add objects to them, then move, delete, or copy them.
-### Adding Objects
-<ol>
-<li>Click **Create New Group **to create a new subgroup in the current group. We recommend using groups to create a more understandable structure for objects used in your game.<br />
-![21](http://help.tabletopia.com/wp-content/uploads/2015/06/211.png)</li>
-<li>Set the cover of the created group to differentiate it easily from other groups by just viewing a hint about its contents (e.g. for the group Cards set the cover as the back of the cards).</li>
+
+## Действия в секции ‘My’
+
+В своей персональной секции вы можете создавать папки и добавлять в них объекты, перемещать, удалять, и копировать их.
+
+### Добавление объектов
+
+* Нажмие **Create New Group** чтобы создать новую подпапку в текущей папке. Рекомендуется использовать более понятную иерархию объектов, используемых в игре.
+
+	![21](http://help.tabletopia.com/wp-content/uploads/2015/06/211.png)
+
+* Set the cover of the created group to differentiate it easily from other groups by just viewing a hint about its contents (e.g. for the group Cards set the cover as the back of the cards).</li>
 <li>Click **Add Object** to copy a new object from another location to your current group.</li>
 <li>Browse and select the object you want to add. You may also set the quantity of the objects which will be added.</li>
 </ol>
