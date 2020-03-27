@@ -4,38 +4,39 @@
 
 В реальной жизни мы раскладываем игру по новой каждый раз, готовя игру под нужное количество игроков или в зависимости от других факторов. В Tabletopia можно начать играть сразу. 
 
-![Setting up Five seals of magic on a real table takes approximately 7 minutes and only 1 second in Tabletopia. And of course you do not need to put everything back into the box afterwards](http://help.tabletopia.com/wp-content/uploads/2015/06/five_seals_of_magic_compare-600x176.png)
+![Чтобы разложить игру Five seals of magic в реальности необходимо около 7 минут и всего 1 секунду в Tabletopia. И конечно не надо убирать всё в коробку после партии!](http://help.tabletopia.com/wp-content/uploads/2015/06/five_seals_of_magic_compare-600x176.png)
 
-Setting up Five seals of magic on a real table takes approximately 7 minutes and only 1 second in Tabletopia. And of course you do not need to put everything back into the box afterwards!</figcaption></figure>
-In Tabletopia you may create numerous setups for each game. And most times you will want to do so to take care of the following points:
-<ul>
-<li>**Unique components for different numbers of players.** Some games have boards and other components that scale up or down depending on the number of players, so you need to create separate setups for each number.</li>
-<li>**Language dependent components.** If the game you are creating is language dependent and has much text, you might want to create separate setups for each language you support.</li>
-<li>**Special variants/modes of the game.** Some games have variants that are played with modified rules or a changed number of components (e.g. setup for beginners or for particular variant of play).</li>
-<li>**Paid and free setups.** Your game may be split into several free setups (in the free catalog) and paid setups (in the premium catalog). See <a href="https://help.tabletopia.com/knowledge-base/monetizing-games-on-tabletopia/#About_Free_and_Premium_Games">About Free and Premium Games</a> for details.</li>
-</ul>
-## Creating a Setup
-Each setup defines:
-<ul>
-<li>Game objects which are used in the game.</li>
-<li>The arrangement of game objects on the table.</li>
-<li>Settings, style etc. of this game table.</li>
-<li>Access level defines who is able to see and play this setup.</li>
-</ul>
-**To create a setup**:
-<ol>
-<li>Go to your game page (Workshop &gt; My Games &gt; &#8220;Your game name&#8221;).</li>
-<li>Click **Create Setup**. A new setup page is opened.![create-setup](http://help.tabletopia.com/wp-content/uploads/2016/12/create-setup.png)</li>
-<li>Specify the following features. All the options may be changed later on when you need to do so:
-<ul>
-<li>**Number of players.** The more players you set, the more player seats are available in the setup.</li>
-<li>**Language dependency. **The setup may be language independent or may have some particular language set, depending on the game objects you are going to use. Note that the languages of your game displayed on the game page are determined by the languages of game setups you created for the game.</li>
-<li>**Edition** is the only optional parameter among these four and it is not used very often. For example, if you create a special version of the game for beginners, it makes sense to name it here accordingly.</li>
-<li>**Winner determination mode. **Choose among available: None, Victory points, Victory &amp; Defeat, Cooperative.</li>
-<li>**Access level** for this setup. Select ‘For personal use only’ for the setups which you are not going to publish yet; &#8220;Available to all users&#8221;, for setups ready to be published.</li>
-</ul>
-</li>
-</ol>
+Чтобы разложить игру Five seals of magic в реальности необходимо около 7 минут и всего 1 секунду в Tabletopia. И конечно не надо убирать всё в коробку после партии!
+
+В Tabletopia вы можете создать несколько сетапов для каждой игры. И в большинстве случаев вам необходим позабоиться о следующих вещах:
+
+* **Уникальные компоненты для разного количества игроков.** Некоторые игры имеют поля и другие компоненты, которые масштабируются в зависимости от количества игроков, поэтому вам необходимо создать сетапы для каждого случая.
+* **Языкозависимые компоненты.** Если ваша игра языкозависима, и в ней много текста, вам может понадобиться разные сетапы для каждого языка, на который переведена игра.
+* **Особые варианты\режимы игры.** В некоторых играх есть режимы игры с модифицированными правилами или измененным набором компонентов (например сетап для новичков или определенный игровой сценарий).
+* **Платные и бесплатные сетапы.** Ваша игра может быть разделена на несколько бесплатных сетапов (в бесплатном каталоге) и платные сетапы (в примиум каталоге). Подробнее смотрите в статье [О бесплатных и платных играх](https://help.tabletopia.com/knowledge-base/monetizing-games-on-tabletopia/#About_Free_and_Premium_Games)
+
+## Создание сетапа
+
+Каждый сетап определяет:
+
+* Игровые объекты которые будут использованы в игре.
+* Расположение объектов на столе.
+* Настройки, стиль и проч. для игрового стола.
+* Уровень доступа определяет кто сможет увидеть и поиграть в сетап.
+
+**Чтобы создать сетап**:
+
+1. Перейдите на страниц игры (Workshop &gt; My Games &gt; *&#8220;Ваша игра&#8221;*).
+2. Нажмите **Create Setup**. Откроется новая страница.
+    ![create-setup](http://help.tabletopia.com/wp-content/uploads/2016/12/create-setup.png)
+
+3. Укажите следующее (все настройки можно будет изменить позднее):
+    * **Количество игроков.** Чем больше игроков вы укажете, тем больше игровых мест будет доступно в сетапе.
+    * **Языкозависимость.** Сетап может быть языконезависи или иметь определенный язык, в зависимости от объектов, которые вы используете. Имейте ввиду что языки, которые показываются на странице игры, определяются языками указанными в сетапах.
+    * **Издание** единственный необязательный параметр и который редко использвется. Например, если вы создаете игру для новичков, есть смысл указать это здесь.
+    * **Режим определения победителя.** Выберите один из доступных вариантов: None (Не указано), Victory points (Победные очки), Victory &amp; Defeat (Победа и поражение), Cooperative (Кооперативная игра).
+    * **Уровень доступа** для этого сетапа. Выберете ‘For personal use only’ для сетапов которые вы пока не собираетесь публиковать для широкой публики. &#8220;Available to all users&#8221;, для сетапов, которые готовы быть опубликованы.
+    
 ### Setup Statuses
 Typically a setup goes through several states before it gets published.
 ![publishing_states](http://help.tabletopia.com/wp-content/uploads/2015/06/publishing_states.png)
