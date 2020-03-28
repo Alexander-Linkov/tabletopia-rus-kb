@@ -37,150 +37,198 @@
     * **Режим определения победителя.** Выберите один из доступных вариантов: None (Не указано), Victory points (Победные очки), Victory &amp; Defeat (Победа и поражение), Cooperative (Кооперативная игра).
     * **Уровень доступа** для этого сетапа. Выберете ‘For personal use only’ для сетапов которые вы пока не собираетесь публиковать для широкой публики. &#8220;Available to all users&#8221;, для сетапов, которые готовы быть опубликованы.
     
-### Setup Statuses
-Typically a setup goes through several states before it gets published.
+### Состояния сетапов
+
+Как правило, сетап проходит через следующие стадии прежде чем будет опубликован:
+
 ![publishing_states](http://help.tabletopia.com/wp-content/uploads/2015/06/publishing_states.png)
-<ul>
-<li>**In Work:** The first and the initial state of a setup. The setup is not visible to other users and can not be played. If you save the setup (without publishing it), the ‘In Work’ state will be kept.</li>
-<li>**Publishing: **A technical step, which is needed to gather all the necessary resources into one setup file and optimize them after you publish it. Usually it takes from a few seconds to several minutes to complete this step after you click **Publish** on the setup page.</li>
-<li>**Published**: A setup in this state can be played and accessed by other players. When the setup is published, it automatically receives a new increased version number and a new publication date. Note that a setup with its access level set to &#8216;For personal use only&#8217; will be accessible only to you and other players whom you send the link. See also <a href="http://help.tabletopia.com/knowledge-base/play-zones/">Opening and Sharing Games</a>.</li>
-</ul>
-**Important:** If you change and save (**without publishing**) an already published setup, a new version of it will be saved in the ‘In Work’ state. Note that other users may not access this new version, they may see only the old published version. Publish the setup to make the new version visible or to change the <a href="http://help.tabletopia.com/knowledge-base/user-access-levels/">Access level</a> of the setup.
-### Setup Name
+
+* **In Work:** Начальное состояние сетапа. Сетап не виден другим пользователям и в него нельзя поиграть. Если вы сохрание сетап без публикации, cостояние ‘In Work’ не изменится.
+* **Publishing:** Технический шаг, в котором собираются все необходимые ресурсы в один файл сетапа и оптимизировать их перед публикацией. Обычно этот шаг занимает от нескольких секунд до нескольких минут, после того как вы нажали **Publish** на странице сетапа.
+* **Published**: В сетап с этим состоянием можно играть и он доступен другим пользователям. Когда сетап опубликован, его версия автоматически увеличивается а дата публикации обновляется. Обратите внимание, что сетап с уровнем доступа &#8216;For personal use only&#8217; будет доступн только вам и другим игрокам, у которых есть ссылка. Подробнее читайте в статье [Как поделиться игрой](http://help.tabletopia.com/knowledge-base/play-zones/)
+
+**Важно:** Если вы изменяете и сохраняете (**без публикации**) уже опубликованный сетап, новая версия будет сохранена в состоянии ‘In Work’. Другие пользователи не получат доступ до этой новой версии, они будут видеть только опубликованную версию. Опубликуйте сетап, чтобы новая версия была видима, или измените [Уровень доступа](http://help.tabletopia.com/knowledge-base/user-access-levels/) сетапа.
+
+### Имя сетапа
+
 ![setup_text_line](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_text_line.png)
-The name of each setup contains useful information about it:
-<ol>
-<li>Number of players.</li>
-<li>Language dependency. ‘Indep’ means language independent.</li>
-<li>Name of edition, if available.</li>
-<li>Size in megabytes.</li>
-</ol>
-If there is an already published version of the setup, the name becomes a link to this version.
-### Access Level Icons
-<ul>
-<li>**Locked** ![status_private](http://help.tabletopia.com/wp-content/uploads/2015/06/status_private.png) setups are Private and visible only to you and the administrators.</li>
-<li>If **no icon is displayed**, the setup is Public, so other users can play it but they cannot duplicate or modify it.</li>
-</ul>
-Note that if you need your setup to be visible for others or to be duplicable, you must also set the correct access level to your game (see <a href="http://help.tabletopia.com/knowledge-base/play-zones/">Opening and Sharing Games</a> article for details).
-## Editing a Setup
-To create your setup, click **Edit** on the setup page to open the game client in your browser (Unity based, supported browsers: Safari (recommended) and IE only).
-When the game client finishes downloading your setup, the following elements are displayed on the screen:
-<ul>
-<li>Number of **player seats** equal to the maximum number of players you defined for this setup.</li>
-<li>The default universal **rectangular grey table** (80х120 cm) placed in the main area of the setup editor.</li>
-<li>The **Objects browser containing only** **published objects** you have in the “My” section of the game folder. By default it shows the opened corresponding game folder.</li>
-</ul>
-**Tip:** Do not forget to publish your objects first if you want them to be available in the setup editor.
-<a href="http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor2.png" data-slb-active="1" data-slb-asset="59485343" data-slb-internal="0" data-slb-group="152">![setup_editor2](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor2-600x356.png)</a>
-### Adding and Managing Table
-The first and very important decision is how to arrange the space on the game table for all the game objects and for all players. If you haven&#8217;t yet picked a table in the catalog, you can do this now in the Workshop (in another browser tab, for example) and then click your group in the editor to reload the contents.
-Our catalog features three categories of tables:
-<ul>
-<li>Rectangle tables</li>
-<li>Round tables (with oval shape)</li>
-<li>Borderless (surfaces)</li>
-</ul>
-After you find the table you like, drag it from the catalog to the center of the screen to replace the current table.
-**![table_size_menu](http://help.tabletopia.com/wp-content/uploads/2015/06/table_size_menu.png)To change the size of the table:**
-<ol>
-<li>Right-click te table and select **Change Table Size** in the dial menu.</li>
-<li>Set the width and length it in the pop up dialog window.</li>
-</ol>
-Get more information in detail about tables and surfaces in the article <a href="http://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes-coming-soon/">Tables, Surfaces and Skyboxes</a>.
-### Setup Editor
+
+Имя каждого сетапа содержит полезную информацию о нем:
+
+1. Количество игроков.
+2. Языкозависимость. *‘Indep’* означает, что игра языконезависима.
+3. Имя издания, если есть.
+4. Размер в мегабайтах.
+
+Если есть уже опубликованная версия сетапа, имя становится ссылкой на эту версию.
+
+### Иконки уровня доступа
+
+* **Locked** ![status_private](http://help.tabletopia.com/wp-content/uploads/2015/06/status_private.png) - сетап приватный и видим только вам и администраторам.
+2. Если **иконка не показана**, сетап публичный и другие пользователи могут играть в него, но не могут копировать и изменять его.
+
+Имейте ввиду, что если вы хотите сделать сетап видимым для других игроков или чтобы его можно было скопировать, вам необходимо также указать подходящий уровень доступа для игры (подробнее читайте в статье [Как поделиться игрой](http://help.tabletopia.com/knowledge-base/play-zones/)).
+
+## Редактирование сетапа
+
+Чтобы создать сетап нажмите **Edit** на страницу сетапа, чтобы открыть игровой клиент в вашем браузере (браузер должен поддержвивать Unity: Safari (рекомендуется) и IE). Когда клиент загрузит сетап, на экране будут показаны следующие элементы:
+
+* Несколько **игровых мест** равное максимальному количеству игроков указанное для сетапа.
+* Стандартный универсальный **прямоугольный серый стол** (80х120 см) размещенный в основной области редактора сетапа.
+* **Каталог объектов содержит только опубликованные объекты**, которые есть в вашей персональной секции в папке игры. По умолчанию он показывает соответствующую игре папку.
+
+> **Совет:** Не забывайте вначале публиковать объекта если хотите, чтобы они были доступны в редакторе сетапа.
+
+![setup_editor2](http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor2-600x356.png)
+
+### Добавление и редактирование стола
+
+Первое и очень важное решение - как разместить объекты на пространстве игрового стола для всех игроков. Если вы еще не выбрали подходящий стол в каталоге, вы можете сдалать это прямо сейчас в Workshop (в другой вкладке браузера, например) и затем кликнуть группу в редакторе, чтобы обновить ее содержимое.
+
+В каталоге Tabletopia три вида столов:
+
+* Прямоугольные столы
+* Круглые (и овальные) столы
+* Бескрайние столы (поверхности)
+
+Когда вы найдете стол, который вам понравится, перетащите его из каталога в центр экрана, чтобы заменить текущий стол.
+
+**Чтобы изменить размеры стола:**
+
+![table_size_menu](http://help.tabletopia.com/wp-content/uploads/2015/06/table_size_menu.png)
+
+1. Кликните правой кнопкой мыши и выберите **Change Table Size** в круговом меню.
+2. Укажите длинну и ширину стола в появившемся диалоге.
+
+Подробнее читайте в статье [Столы, поверхности и фоны](http://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes-coming-soon/)
+
+### Редактор сетапа
+
 ![editor_element_browser](http://help.tabletopia.com/wp-content/uploads/2015/06/editor_element_browser.png)
-The lower part of the setup window contains an **object browser**. This browser contains all the objects and subgroups you added to your game folder or created previously. Note that the newly created objects must be published to be visible here.
-<ul>
-<li>**To browse between your catalogs,** click their names in the navigation bar or use **Back** button.</li>
-<li>**To find a specific object,** use filters of object types.</li>
-</ul>
+
+Нижняя часть экрана содержит **каталог объектов**. В нем вы найдете все объекты и подгруппы которые вы добавили в группу игры или создали раньше. Имейте ввиду, что созданные объекты должны быть опубликованы, чтобы их можно было увидеть здесь.
+
+* **Чтобы просмотреть свои каталоги,** кликните на их имена в навигаторе или используюте кнопку **Back**.
+* **Чтобы найти определенный объект,** отфильтруйте объекты по типу.
+
 ![editor_object_view](http://help.tabletopia.com/wp-content/uploads/2015/06/editor_object_view.png)
-### Managing Objects
-![editor_object_put3](http://help.tabletopia.com/wp-content/uploads/2015/06/editor_object_put3.png)Various actions are available in the setup editor.
-<ul>
-<li>**To add an object to the setup,** drag and drop it to the table from the editor. Note that when you are adding objects, the total number of these objects is shown in the object browser. This number is saved in the setup, so you always can see it while editing the setup.</li>
-</ul>
-Now you can start manipulating the object to prepare it for the game. All objects in the setup editor are manipulated in almost the same manner as in the player client, see <a href="http://help.tabletopia.com/knowledge-base/actions-with-game-objects/">Interacting with Game Components</a>.
-<ul>
-<li>**To zoom an object,** double-click it or press ‘Space’ on the keyboard.</li>
-<li>**To manipulate an object,** right-click it and choose an action from the dial menu. You may move, rotate or flip  them, set up stacks,  etc.</li>
-</ul>
+
+### Управление объектами
+
+![editor_object_put3](http://help.tabletopia.com/wp-content/uploads/2015/06/editor_object_put3.png)
+
+В редакторе сетапа вы можете сделать следующее:
+
+* **Чтобы добавить объект в сетап,** перетащите его на стол из каталога. Обратите внимание что общее количество добавленных копий этого объекта указано в каталоге объектов. Это количество сохраняется в сетапе, поэтому вы всегда сможете увидеть его когда редактируете сетап.
+
+Теперь вы можете манипулировать объектами чтобы подготовить их к игре. Вы делаете это почти точно также как и в игровом клиенте, подробнее читайте в статье [Взаимодействие с игровыми компонентами](http://help.tabletopia.com/knowledge-base/actions-with-game-objects/)
+
+* **Чтобы приблизить объект,** дважды кликните по нему или нажмите ‘Пробел’ на клавиатуре.
+* **Для манипуляцией объектом,** кликните по нему правой кнопкой мыши и выберите нужное действие из кругового меню. Вы можете переместить его, развернуть, перевернуть, собрать в стопку, итд.
+
 ![editor_object_menu](http://help.tabletopia.com/wp-content/uploads/2015/06/editor_object_menu.png)
-There are also some special features available in the setup editor only:
-<ul>
-<li>**Duplicate.** Use to create another copy of the object on the table. It is possible to duplicate several objects at once:
-<ul>
-<li>Select all object while holding **Shift**.</li>
-<li>Right-click and select** Duplicate**.</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>**Remove.** Use to delete the object from the setup. It is also possible to delete several selected objects at once:
-<ul>
-<li>Select all object while holding **Shift**.</li>
-<li>Right-click and select<b> Remove</b>.</li>
-</ul>
-</li>
-</ul>
-**Tip:** You cannot remove a table, surface or skybox from your game. But you can change it. Drag a new one from the object browser up to the main editor area to make the change.
-![update_object_notification1](http://help.tabletopia.com/wp-content/uploads/2015/06/update_object_notification1.png)If there is a new version of an object available, it is indicated with a special update icon ![update_icon](http://help.tabletopia.com/wp-content/uploads/2015/06/update_icon.png) in the object browser.
-<ul>
-<li>**To update an object,** right-click it and select **Update in Setup** in the dial menu. The system will change all the objects in the setup to the newest version.</li>
-</ul>
-&nbsp;
-### Managing Player Seats
-You can set up player seat colors, order, cameras, etc. in the setup editor.
-<h3><span id="Managing_SeatColors">Managing Seat Colors</span></h3>
-By default the system allows the following seats and colors in this exact sequence:
+
+Также есть некоторые дейтвия, доступные только в редакторе сетапа:
+
+* **Duplicate.** Создает другую копию объекта на столе. Также можно скопировать несколько объектов за раз:
+    * Выберите все объекты, удерживая **Shift**
+    * Кликните правой кнопкой мыши и выберите **Duplicate**.
+
+* **Remove.** Удаляет объекты из сетапа. Также можно удалить несколько объектов за раз:
+    * Выберите все объекты, удерживая **Shift**
+    * Кликните правой кнопкой мыши и выберите **Remove**.
+
+> **Совет:** Вы неможете удалить стол, поверхность или фон из игры. Но вы можете изменить их. Перетащите новый из каталога объектов в основную часть редактора.
+
+![update_object_notification1](http://help.tabletopia.com/wp-content/uploads/2015/06/update_object_notification1.png)
+
+Если появилась новая версия объекта, объект помечается иконкой ![update_icon](http://help.tabletopia.com/wp-content/uploads/2015/06/update_icon.png) в каталоге объектов.
+
+* **Чтобы обновить объект,** кликните правой кнопкой мыши на нем и выберите **Update in Setup** в круговом меню. Tabletopia обновит все объекты в сетапе на новую версию.
+
+### Управление игровыми местами
+
+Вы можете указать цвет, порядок, положение камер и др. в редакторе сетапа.
+
+#### Управление цветом игрового места
+
+По умолчанию в Tabletopia следующие цвета в таком порядке:
+
 ![seats](http://help.tabletopia.com/wp-content/uploads/2015/06/seats-600x47.png)
+
 ![seats_menu_change_color](http://help.tabletopia.com/wp-content/uploads/2015/06/seats_menu_change_color.png)
 
-This means that for a two-player setup you will get two seats by default: blue and red. If this is not appropriate for your game, youcan change a seat sequence.
+Это значит, что в сетапе на двух игроков игровые места будут синим и красным. Если вам это не подходит, вы можете поменять этот порядок.
 
-**To change the seat color:**
-<ol>
-<li>Right-click a seat.</li>
-<li>Select the required color from the pallette.</li>
-</ol>
-Note that the host of the game will be able to change settings during the game. So it will be possible to randomize colors and seat order for all players.
-<h3><span id="Marking_Players_on_the_Board">Marking Players on the Board</span></h3>
-In real life everybody knows where they are sitting and where all their gaming stuff is placed, but in Tabletopia it is not always so obvious, hence it is a good idea to mark each player zone with a game board of a corresponding color or at least with a colored player marker.
-<a href="http://help.tabletopia.com/wp-content/uploads/2015/06/evolution_board.png" data-slb-active="1" data-slb-asset="888237999" data-slb-internal="0" data-slb-group="152">![Player zones in Evolution: The Origin of Species. Species of every player are easily differentiated from each other](http://help.tabletopia.com/wp-content/uploads/2015/06/evolution_board.png)</a>
-You may create custom objects to mark zones or choose from our <a href="http://beta.tabletopia.com/objects/featured">Featured Game Objects</a>.
-**Tip:** Please, pay attention to place player’s zones on the table in the same sequence as the player’s seats are shown.
-### Setting Default Cameras
-In real life players usually are seated opposite each other, but with Tabletopia things are different, since the players are looking at the screen.
+**Чтобы поменять цвет игрового места:**
+
+1. Кликните игровое место правой кнопкой мыши.
+2. Выбирите нужный цвет из палитры.
+
+Однако хост игры может поменять эти настройки в игре, так что можно будет назначить случайные цвета игровым местам.
+
+#### Размещение игроков на доске
+
+В реальной жизни все знают где они сидят и где находятся их игровая область, но в Tabletopia это не всегда очевидно, поэтому хорошо, если вы пометите игровую зону для каждого игрока соответсвующим цветом.
+
+![Player zones in Evolution: The Origin of Species. Species of every player are easily differentiated from each other](http://help.tabletopia.com/wp-content/uploads/2015/06/evolution_board.png)
+Игровые зоны в игре Evolution: The Origin of Species. Игрвые области каждого игрока легко отличить друг от друга.
+
+Вы можете создать свои маркеры зон или выбрать из [Рекомендованных игровых объектов](http://beta.tabletopia.com/objects/featured)
+
+> **Совет:** Обращайте внимание, чтобы размещение игровых зон совпадало с показанным порядком игрвых мест.
+
+### Установка изначальных камер
+
+В реальной жизни игроки сидят напротив друг друга, но в Tabletopia всё немного под другому, т.к. игроки смотрят на экран.
+
 ![camera_views](http://help.tabletopia.com/wp-content/uploads/2015/06/camera_views.png)
-When each player has some of their objects on the board, it is better to set up the camera view from the perspective of a real player sitting near his game components and looking on the game board in most cases.
-**![seats_menu_save_seat_camera](http://help.tabletopia.com/wp-content/uploads/2015/06/seats_menu_save_seat_camera.png)To set a camera view for each seat:**
-<ol>
-<li>Adjust the camera to the desired position.</li>
-<li>Right-click a seat and click **Save Seat Camera**.</li>
-</ol>
-**To check that the cameras are set in the right positions,** right-click a seat and select **Go to Seat Camera** for each seat.
-## Customizing Setup
-Depending on the game you create you may need to add some special settings: set actions allowed to do with objects, set object size in player’s hand, make objects stackable, magnetic, etc. ![setup_settings](https://help.tabletopia.com/wp-content/uploads/2019/12/setup_settings-11.12.19.png)
-**To customize your setup,** click Tabletopia logo in the upper left corner &gt; **Settings:**
-<ul>
-<li>**Allow to create decks with drag-and-drop:** allows you to create new stacks for cards, tiles and tokens by dragging one object on top of the other in the game.</li>
-<li>**Enable hand:**  enable player’s hands. Many other features will be implemented later on, e.g. a turn based mode and others.</li>
-</ul>
-Keep in mind the size of graphics you use for the game. Usually the setup you create should be **no larger than 20 MB**, but it is unpacked to a much bigger size on the player’s computer and it might therefore be laggy on some older computers. Read more about graphics in <a href="http://help.tabletopia.com/knowledge-base/how-to-prepare-graphics/">How to prepare graphics</a>.
-## 
-## 
-Graphics from your original cardboard version of the game are very important but you can do so much more to create a special atmosphere in your game.
-<ul>
-<li>Add **<a href="http://help.tabletopia.com/knowledge-base/sounds-and-music-coming-soon/">custom sounds</a> **for your game objects.</li>
-<li>Place a **<a href="http://help.tabletopia.com/knowledge-base/music-box/">music box</a>** on the game table. It will play custom music during the game.</li>
-<li>Choose one of the available **<a href="http://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes-coming-soon/">skyboxes</a>** from the library or create your own.</li>
-</ul>
-<figure id="attachment_104" style="width: 1366px" class="wp-caption aligncenter">![skybox](http://help.tabletopia.com/wp-content/uploads/2015/06/skybox.png)<figcaption class="wp-caption-text">Custom skybox</figcaption></figure>
-<ul>
-<li>Create a **custom surface** for the table. You can create and use a special <a href="http://help.tabletopia.com/knowledge-base/game-board/">game board</a> the size of the entire table. See <a href="http://help.tabletopia.com/knowledge-base/how-to-prepare-graphics/">How to prepare graphics</a> and <a href="https://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes/">Tables, Surfaces and Skyboxes</a> for details.</li>
-</ul>
-<figure id="attachment_500" style="width: 1366px" class="wp-caption alignnone">![custom_surface_1000](http://help.tabletopia.com/wp-content/uploads/2015/06/custom_surface_1000.png)<figcaption class="wp-caption-text">Custom surface</figcaption></figure>
-<ul>
-<li>Replace some standard game object with **custom ocomponents**. We recommend using tokens of different shapes. They are very useful and flexible: you may set any shape, any thickness and use custom colors for them.</li>
-</ul>
-<figure id="attachment_501" style="width: 395px" class="wp-caption aligncenter">![evolution_custom_tokens](http://help.tabletopia.com/wp-content/uploads/2015/06/evolution_custom_tokens.png)<figcaption class="wp-caption-text">Custom tokens for Evolution board game</figcaption></figure>
+
+Когда у каждого игрока есть объекты на доске, лучше настроить камеру с точки зрения как если бы реальный игрок сидел рядом с его компонентами и смотрел на игровое поле.
+
+**Чтобы установить камеру для каждого игрового места:**
+
+![seats_menu_save_seat_camera](http://help.tabletopia.com/wp-content/uploads/2015/06/seats_menu_save_seat_camera.png)
+
+1. Настройте требуемое положение камеры.
+2. Кликните правой кнопкой мыши по игровому месту и нажмите **Save Seat Camera**.
+
+**Чтобы проверить что все камеры находятся в правильном положении,** кликните правой кнопкой мыши по игровому месту и выберете **Go to Seat Camera** для каждого игрового места.
+
+## Настройка сетапа
+
+В зависимости от игры вам может понадобиться особые настройки: указать доступные действия над объектами, указать размер руки игрока, сделать объекты группируемыми, магнитящимися и проч.
+
+![setup_settings](https://help.tabletopia.com/wp-content/uploads/2019/12/setup_settings-11.12.19.png)
+
+**Чтобы настроить сетап,** нажмите логотип Tabletopia в верхнем левом углу &gt; **Settings:**
+
+* **Allow to create decks with drag-and-drop:** - отметье, чтобы объекты (карты, тайлы, токены) можно было группировать в стопки\колоды перетаскиванием объетов друг на друга.
+
+* **Enable hand:** - отметьте, чтобы игрок мог забирать объекты в руку. Много других возможностей будет доступно позже (например пошаговый режим и др.)
+  
+Помните о размере изображений используемых в игре. Обычно сетап должен быть **не больше чем 20 MB**, но размер значительно больше после распаковки на компьютере игрока, что может привезти к лагам на некоторых компьютерах. Подробнее читайте в статье [Как подготовить изображения](how-to-prepare-graphics.md)
+
+
+## Приложение 1. Создание атмосферы
+
+Изображения из оригинальной картонной версии игры очень важны, но вы можете еще больше создать особую атмосферу в игре.
+
+* Добавьте **[особые звуки](http://help.tabletopia.com/knowledge-base/sounds-and-music-coming-soon/)** вашим игровым объектам.
+* Разместите **[музыкальный проигрыватель](http://help.tabletopia.com/knowledge-base/music-box/)** в игровой стол. Он будет играть указанную музыку в течении игры.
+* Выберите один из доступных **[фонов](http://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes-coming-soon/)** или создайте свой.
+
+    ![skybox](http://help.tabletopia.com/wp-content/uploads/2015/06/skybox.png)
+    Самодельный фон
+
+* Создайте **самодельное покрытие** для стола. Вы можете создать и использовать особые [игровые столы](http://help.tabletopia.com/knowledge-base/game-board/) размером с целый игровой стол. Подробнее читайте в статьях [Как подготовить изображения](how-to-prepare-graphics.md) и [Столы, Поверхности и Фоны](https://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes/)
+
+    ![custom_surface_1000](http://help.tabletopia.com/wp-content/uploads/2015/06/custom_surface_1000.png)
+    
+    Самодельная поверхность
+
+* Замените стандартные игровые компонеты **самодельными**. Рекомендуется использовать жетоны разных форм. Они могут быть полезны и настраиваемы: вы можете указать размер, толщину и особый цвет.
+
+    ![evolution_custom_tokens](http://help.tabletopia.com/wp-content/uploads/2015/06/evolution_custom_tokens.png)
+    
+    Самодельные жетоны для игры Эволюция
