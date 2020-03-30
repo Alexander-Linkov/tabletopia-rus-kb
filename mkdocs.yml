@@ -1,5 +1,7 @@
 site_name: Tabletopia - Русская база знаний
 nav:
+    - Playground:
+        - playground/actions-with-game-objects.md
     - Workshop:
         - Создание игры:
             - workshop/games/how-to-create-game.md
