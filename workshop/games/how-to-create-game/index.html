@@ -168,18 +168,54 @@
       
       
 
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-1" type="checkbox" id="nav-1">
+    
+    <label class="md-nav__link" for="nav-1">
+      Playground
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-1">
+        Playground
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../playground/actions-with-game-objects/" title="Взаимодействие с игровыми компонентами" class="md-nav__link">
+      Взаимодействие с игровыми компонентами
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
   
 
 
   <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-1" type="checkbox" id="nav-1" checked>
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
     
-    <label class="md-nav__link" for="nav-1">
+    <label class="md-nav__link" for="nav-2">
       Workshop
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-1">
+      <label class="md-nav__title" for="nav-2">
         Workshop
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -194,13 +230,13 @@
 
   <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-1-1" type="checkbox" id="nav-1-1" checked>
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-1" type="checkbox" id="nav-2-1" checked>
     
-    <label class="md-nav__link" for="nav-1-1">
+    <label class="md-nav__link" for="nav-2-1">
       Создание игры
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
-      <label class="md-nav__title" for="nav-1-1">
+      <label class="md-nav__title" for="nav-2-1">
         Создание игры
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -339,13 +375,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-1-2" type="checkbox" id="nav-1-2">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-2" type="checkbox" id="nav-2-2">
     
-    <label class="md-nav__link" for="nav-1-2">
+    <label class="md-nav__link" for="nav-2-2">
       Создание объектов
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
-      <label class="md-nav__title" for="nav-1-2">
+      <label class="md-nav__title" for="nav-2-2">
         Создание объектов
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -567,7 +603,7 @@
 <blockquote>
 <p><strong>Совет:</strong> Вы можете отметить закладкой объекты в разделах Featured или Sandbox: нажмите <img alt="bookmarked1" src="http://help.tabletopia.com/wp-content/uploads/2015/06/bookmarked11.png" /> в правом верхнем углу объекта. Чтобы позже найти отмеченные объекты, перейдите в <strong>Objects &gt; Bookmarks</strong>.</p>
 </blockquote>
-<p>[Подробнее о каталоге объектов]../objects/objects-catalogue.md).</p>
+<p><a href="../../objects/objects-catalogue/">Подробнее о каталоге объектов</a>.</p>
 <h3 id="_5">Создание и редактирование сетапа</h3>
 <p>Сетап игры определяет набор объектов используемых для конкретной партии (например для 2-х игроков). Думайте о сетапе, как о том, что вы делаете с физической игрой перед каждой партией. Подробнее в статье <a href="../game-setups/">Сетап игры</a> article.</p>
 <p>Когда вы закончите доабавлять объекты вашей игры, можете приступать к <strong>созданию сетапа</strong>:</p>
@@ -579,14 +615,16 @@
 <li>Нажмите <strong>Edit </strong> чтобы открыть игровой клиент в отдельном окне или вкладке и перейти непосредственно к созданию игры.
     <img alt="setup_editor" src="http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor.png" /></li>
 </ol>
-<p>Когда игровой клиент скачает ваш сетап, на экране будут доступны следующие элементы:
-* Несколько <strong>игровых мест</strong> равное максимальному количеству игроков, которые вы указали при создании сетапа.
-* Универсальный <strong>прямоугольный серый стол</strong> (80х120 см) размещенный в основной части редактора сетапа.
-* <strong>Objects browser</strong> (каталог объектов) содержит только <strong>опубликованные объекты</strong>, которые есть в папке игры в разделе “My&#8221;. По умолчанию, он открывает соответствующую папку.
-    <img alt="setup_editor_objects_placed" src="http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor_objects_placed.png" /></p>
+<p>Когда игровой клиент скачает ваш сетап, на экране будут доступны следующие элементы:</p>
+<ul>
+<li>Несколько <strong>игровых мест</strong> равное максимальному количеству игроков, которые вы указали при создании сетапа.</li>
+<li>Универсальный <strong>прямоугольный серый стол</strong> (80х120 см) размещенный в основной части редактора сетапа.</li>
+<li><strong>Objects browser</strong> (каталог объектов) содержит только <strong>опубликованные объекты</strong>, которые есть в папке игры в разделе “My&#8221;. По умолчанию, он открывает соответствующую папку.
+    <img alt="setup_editor_objects_placed" src="http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor_objects_placed.png" /></li>
+</ul>
 <p><img alt="setup editor &gt;" src="http://help.tabletopia.com/wp-content/uploads/2015/06/setup_editor_main_menu.png" /></p>
 <p>Здесь вы настраиваете окружение в котором находится игра (размеры стола, его покрытие, а также фон) и добавляете все необходимые объекты для игры.</p>
-<p>Перетаскивайте объекты из каталога объектов на стол и размещайте в нужном порядке. После того, как объект создан, вы можете свободно им манипулировать, переворачивать, вращать, устанавливать на позицию и тд. Подробнее читайте в  <a href="../game-setups/">Сетап игры</a> и <a href="http://help.tabletopia.com/knowledge-base/actions-with-game-objects/">Взаимодействие с игровыми компонентами</a>.</p>
+<p>Перетаскивайте объекты из каталога объектов на стол и размещайте в нужном порядке. После того, как объект создан, вы можете свободно им манипулировать, переворачивать, вращать, устанавливать на позицию и тд. Подробнее читайте в  <a href="../game-setups/">Сетап игры</a> и <a href="../../../playground/actions-with-game-objects/">Взаимодействие с игровыми компонентами</a>.</p>
 <p>Когда вы закончите или захотите сделать перерыв, сохраните сетап и закройте редактор:</p>
 <ol>
 <li>Нажмите на логотип Tabletopia в левом верхнем углу.</li>
@@ -599,7 +637,7 @@
 <ul>
 <li><strong>In Work:</strong> - Первое и изначальное состояние сетапа. Сетап не виден другим пользователям и в него нельзя играть. Если вы сохраняете сетап (без публикации), состояние  ‘In Work’ сохраняется.</li>
 <li><strong>Publishing:</strong> - Технический шаг, который необходим, чтобы собрать все необходимые ресурсы в одном файле сетапа и оптимизировать его, после того, как вы его опубликуете. Обычно это занимает от нескольких секунд до нескольких минут, после того как вы нажмете <strong>Publish</strong> на страницу сетапа.</li>
-<li><strong>Published</strong>:  В этом состоянии сетап доступен для игры другим пользователям. Когда вы публикуете сетап, его версия и дата публикации автоматически обновляется. Обратите внимание, что сетап с уровнем доступа &#8216;For personal use only&#8217; будет доступен только вам и пользователям, которым вы отправите ссылку на него. См <a href="http://help.tabletopia.com/knowledge-base/play-zones/">Игровые зоны или как поделиться сетапом</a>.</li>
+<li><strong>Published</strong>:  В этом состоянии сетап доступен для игры другим пользователям. Когда вы публикуете сетап, его версия и дата публикации автоматически обновляется. Обратите внимание, что сетап с уровнем доступа &#8216;For personal use only&#8217; будет доступен только вам и пользователям, которым вы отправите ссылку на него. См <a href="http://help.tabletopia.com/knowledge-base/play-zones/">Как поделиться игрой</a>.</li>
 </ul>
 <p><img alt="setup_statuses" src="http://help.tabletopia.com/wp-content/uploads/2015/06/setup_statuses.png" /></p>
 <p>Пример различных состояний сетапов на странице игры.</p>
@@ -647,6 +685,20 @@
   
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../../../playground/actions-with-game-objects/" title="Взаимодействие с игровыми компонентами" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Взаимодействие с игровыми компонентами
+              </span>
+            </div>
+          </a>
         
         
           <a href="../how-to-prepare-graphics/" title="Подготовка изображений" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
