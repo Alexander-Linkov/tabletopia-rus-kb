@@ -8,6 +8,7 @@ nav:
             - workshop/games/how-to-prepare-graphics.md
             - workshop/games/filling-in-a-game-form.md
             - workshop/games/game-setups.md
+            - workshop/games/play-zones.md
         - Создание объектов:
             - workshop/objects/game-objects-types.md
             - workshop/objects/how-to-fill-in-an-object-form.md
