@@ -13,5 +13,7 @@ nav:
             - workshop/objects/game-objects-types.md
             - workshop/objects/how-to-fill-in-an-object-form.md
             - workshop/objects/objects-catalogue.md
+        - Улучшение игры:
+            - workshop/enhance/visual-design-guide.md
 theme:
     name: "material"
