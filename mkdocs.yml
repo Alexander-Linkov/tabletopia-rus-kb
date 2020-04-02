@@ -15,5 +15,6 @@ nav:
             - workshop/objects/objects-catalogue.md
         - Улучшение игры:
             - workshop/enhance/visual-design-guide.md
+            - workshop/enhance/randomizers.md
 theme:
     name: "material"
