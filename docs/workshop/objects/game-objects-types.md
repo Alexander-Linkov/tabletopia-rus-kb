@@ -20,4 +20,4 @@
 * [Мешочки](http://help.tabletopia.com/knowledge-base/bag/)
 * [Музыкальный проигрыватель](http://help.tabletopia.com/knowledge-base/music-box/)
 * [Графические счетчики](http://help.tabletopia.com/knowledge-base/picture-counter/)
-* [Столы, покрытия и фоны](http://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes/)
+* [Столы, покрытия и фоны](tables-surfaces-and-skyboxes.md)

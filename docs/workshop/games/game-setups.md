@@ -100,7 +100,7 @@
 1. Кликните правой кнопкой мыши и выберите **Change Table Size** в круговом меню.
 2. Укажите длинну и ширину стола в появившемся диалоге.
 
-Подробнее читайте в статье [Столы, поверхности и фоны](http://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes-coming-soon/)
+Подробнее читайте в статье [Столы, поверхности и фоны](../objects/tables-surfaces-and-skyboxes.md).
 
 ### Редактор сетапа
 
@@ -216,12 +216,12 @@
 
 * Добавьте **[особые звуки](http://help.tabletopia.com/knowledge-base/sounds-and-music-coming-soon/)** вашим игровым объектам.
 * Разместите **[музыкальный проигрыватель](http://help.tabletopia.com/knowledge-base/music-box/)** в игровой стол. Он будет играть указанную музыку в течении игры.
-* Выберите один из доступных **[фонов](http://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes-coming-soon/)** или создайте свой.
+* Выберите один из доступных **[фонов]()../objects/tables-surfaces-and-skyboxes.md)** или создайте свой.
 
     ![skybox](http://help.tabletopia.com/wp-content/uploads/2015/06/skybox.png)
     Самодельный фон
 
-* Создайте **самодельное покрытие** для стола. Вы можете создать и использовать особые [игровые столы](http://help.tabletopia.com/knowledge-base/game-board/) размером с целый игровой стол. Подробнее читайте в статьях [Как подготовить изображения](how-to-prepare-graphics.md) и [Столы, Поверхности и Фоны](https://help.tabletopia.com/knowledge-base/tables-surfaces-and-skyboxes/)
+* Создайте **самодельное покрытие** для стола. Вы можете создать и использовать особые [игровые столы](http://help.tabletopia.com/knowledge-base/game-board/) размером с целый игровой стол. Подробнее читайте в статьях [Как подготовить изображения](how-to-prepare-graphics.md) и [Столы, Поверхности и Фоны](../objects/tables-surfaces-and-skyboxes.md).
 
     ![custom_surface_1000](http://help.tabletopia.com/wp-content/uploads/2015/06/custom_surface_1000.png)
     
