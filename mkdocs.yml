@@ -13,6 +13,7 @@ nav:
             - workshop/objects/game-objects-types.md
             - workshop/objects/how-to-fill-in-an-object-form.md
             - workshop/objects/objects-catalogue.md
+            - workshop/objects/game-board.md
             - workshop/objects/tables-surfaces-and-skyboxes.md
         - Улучшение игры:
             - workshop/enhance/visual-design-guide.md

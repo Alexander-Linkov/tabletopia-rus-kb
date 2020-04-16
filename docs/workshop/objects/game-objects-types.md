@@ -10,7 +10,7 @@
 
 **Доступные объекты в Tabletopia:**
 
-* [Игровое поле](http://help.tabletopia.com/knowledge-base/what-you-need-to-know/)
+* [Игровое поле](game-board.md)
 * [Карты](http://help.tabletopia.com/knowledge-base/installation-guide/)
 * [Тайлы](http://help.tabletopia.com/knowledge-base/how-to-contact-support/)
 * [Жетоны\Токены](http://help.tabletopia.com/knowledge-base/token/)

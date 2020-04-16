@@ -172,7 +172,8 @@
 В реальной жизни все знают где они сидят и где находятся их игровая область, но в Tabletopia это не всегда очевидно, поэтому хорошо, если вы пометите игровую зону для каждого игрока соответсвующим цветом.
 
 ![Player zones in Evolution: The Origin of Species. Species of every player are easily differentiated from each other](http://help.tabletopia.com/wp-content/uploads/2015/06/evolution_board.png)
-Игровые зоны в игре Evolution: The Origin of Species. Игрвые области каждого игрока легко отличить друг от друга.
+
+*Игровые зоны в игре Evolution: The Origin of Species. Игрвые области каждого игрока легко отличить друг от друга.*
 
 Вы можете создать свои маркеры зон или выбрать из [Рекомендованных игровых объектов](http://beta.tabletopia.com/objects/featured)
 
@@ -216,19 +217,20 @@
 
 * Добавьте **[особые звуки](http://help.tabletopia.com/knowledge-base/sounds-and-music-coming-soon/)** вашим игровым объектам.
 * Разместите **[музыкальный проигрыватель](http://help.tabletopia.com/knowledge-base/music-box/)** в игровой стол. Он будет играть указанную музыку в течении игры.
-* Выберите один из доступных **[фонов]()../objects/tables-surfaces-and-skyboxes.md)** или создайте свой.
+* Выберите один из доступных **[фонов](../objects/tables-surfaces-and-skyboxes.md)** или создайте свой.
 
     ![skybox](http://help.tabletopia.com/wp-content/uploads/2015/06/skybox.png)
-    Самодельный фон
+    
+    *Самодельный фон*
 
-* Создайте **самодельное покрытие** для стола. Вы можете создать и использовать особые [игровые столы](http://help.tabletopia.com/knowledge-base/game-board/) размером с целый игровой стол. Подробнее читайте в статьях [Как подготовить изображения](how-to-prepare-graphics.md) и [Столы, Поверхности и Фоны](../objects/tables-surfaces-and-skyboxes.md).
+* Создайте **самодельное покрытие** для стола. Вы можете создать и использовать особые [игровые поля](../objects/game-board.md) размером с целый игровой стол. Подробнее читайте в статьях [Как подготовить изображения](how-to-prepare-graphics.md) и [Столы, Поверхности и Фоны](../objects/tables-surfaces-and-skyboxes.md).
 
     ![custom_surface_1000](http://help.tabletopia.com/wp-content/uploads/2015/06/custom_surface_1000.png)
     
-    Самодельная поверхность
+    *Самодельная поверхность*
 
 * Замените стандартные игровые компонеты **самодельными**. Рекомендуется использовать жетоны разных форм. Они могут быть полезны и настраиваемы: вы можете указать размер, толщину и особый цвет.
 
     ![evolution_custom_tokens](http://help.tabletopia.com/wp-content/uploads/2015/06/evolution_custom_tokens.png)
     
-    Самодельные жетоны для игры Эволюция
+    *Самодельные жетоны для игры Эволюция*
