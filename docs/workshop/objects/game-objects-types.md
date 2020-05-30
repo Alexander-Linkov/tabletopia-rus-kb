@@ -13,7 +13,7 @@
 * [Игровое поле](game-board.md)
 * [Карта](card.md)
 * [Тайл](tile.md)
-* [Жетон\Токен](http://help.tabletopia.com/knowledge-base/token/)
+* [Жетон\Токен](token.md)
 * [Счетчик](http://help.tabletopia.com/knowledge-base/counter/)
 * [Кубик](http://help.tabletopia.com/knowledge-base/die/)
 * [Фишка](http://help.tabletopia.com/knowledge-base/game-piece/)

@@ -16,6 +16,7 @@ nav:
             - workshop/objects/game-board.md
             - workshop/objects/card.md
             - workshop/objects/tile.md
+            - workshop/objects/token.md
             - workshop/objects/tables-surfaces-and-skyboxes.md
         - Улучшение игры:
             - workshop/enhance/visual-design-guide.md
