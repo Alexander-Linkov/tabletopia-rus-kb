@@ -14,7 +14,7 @@
 * [Карта](card.md)
 * [Тайл](tile.md)
 * [Жетон\Токен](token.md)
-* [Счетчик](http://help.tabletopia.com/knowledge-base/counter/)
+* [Счетчик](counter.md)
 * [Кубик](http://help.tabletopia.com/knowledge-base/die/)
 * [Фишка](http://help.tabletopia.com/knowledge-base/game-piece/)
 * [Мешочек](http://help.tabletopia.com/knowledge-base/bag/)
