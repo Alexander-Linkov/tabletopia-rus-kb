@@ -18,6 +18,7 @@ nav:
             - workshop/objects/tile.md
             - workshop/objects/token.md
             - workshop/objects/counter.md
+            - workshop/objects/die.md
             - workshop/objects/tables-surfaces-and-skyboxes.md
         - Улучшение игры:
             - workshop/enhance/visual-design-guide.md

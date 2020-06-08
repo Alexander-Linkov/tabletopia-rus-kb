@@ -15,7 +15,7 @@
 * [Тайл](tile.md)
 * [Жетон\Токен](token.md)
 * [Счетчик](counter.md)
-* [Кубик](http://help.tabletopia.com/knowledge-base/die/)
+* [Кубик](die.md)
 * [Фишка](http://help.tabletopia.com/knowledge-base/game-piece/)
 * [Мешочек](http://help.tabletopia.com/knowledge-base/bag/)
 * [Музыкальный проигрыватель](http://help.tabletopia.com/knowledge-base/music-box/)
