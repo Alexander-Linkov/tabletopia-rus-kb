@@ -21,6 +21,7 @@ nav:
             - workshop/objects/die.md
             - workshop/objects/game-piece.md
             - workshop/objects/bag.md
+            - workshop/objects/music-box.md
             - workshop/objects/tables-surfaces-and-skyboxes.md
         - Улучшение игры:
             - workshop/enhance/visual-design-guide.md

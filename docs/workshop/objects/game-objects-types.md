@@ -18,6 +18,6 @@
 * [Кубик](die.md)
 * [Игровые фишки (миниатюры)](game-piece.md)
 * [Мешочек](bag.md)
-* [Музыкальный проигрыватель](http://help.tabletopia.com/knowledge-base/music-box/)
+* [Музыкальный проигрыватель](music-box.md)
 * [Графический счетчик](http://help.tabletopia.com/knowledge-base/picture-counter/)
 * [Столы, покрытия и фоны](tables-surfaces-and-skyboxes.md)
