@@ -17,7 +17,7 @@
 * [Счетчик](counter.md)
 * [Кубик](die.md)
 * [Игровые фишки (миниатюры)](game-piece.md)
-* [Мешочек](http://help.tabletopia.com/knowledge-base/bag/)
+* [Мешочек](bag.md)
 * [Музыкальный проигрыватель](http://help.tabletopia.com/knowledge-base/music-box/)
 * [Графический счетчик](http://help.tabletopia.com/knowledge-base/picture-counter/)
 * [Столы, покрытия и фоны](tables-surfaces-and-skyboxes.md)
