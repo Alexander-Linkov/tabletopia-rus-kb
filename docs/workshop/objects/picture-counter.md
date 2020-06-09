@@ -30,33 +30,32 @@
 
 * **Книги правил, многостраничные инструкции, и проч.** Если вы используете большие книги правил мы не реомендуем использовать графический счетчик для этого. Используйте его для коротких правил, инструкций и проч. Размер файла от 1 до 3 Мб должно быть достаточно. Используйте .JPG для слайдов - это не увеличит значительно размер игры
 
-<ul>
-<li><b> ![dice](http://help.tabletopia.com/wp-content/uploads/2015/12/dice-320x162.jpg)Flat dice. </b>Picture counters have the same commands at your disposal as dice:</li>
-</ul>
-<ul>
-<li>set value</li>
-<li>flip (next value)</li>
-<li>randomise (roll)</li>
-</ul>
-This means that picture counters can be used exactly as normal dice (or coin) and they have some advantages:
-<ul>
-<li>they can be flat, which is stylish and compact</li>
-<li>they can have any number up to 24 sides</li>
-<li>sides can be of any shape</li>
-</ul>
-Note that new players may not grasp from the beginning that these are used like dice, because they look different.
-## Creating a Picture Counter
-**To create a picture counter:**
-<ol>
-<li>Go to [Workshop](https://tabletopia.com/workshop) &gt; Objects.</li>
-<li>Click **Create Object **&gt; Picture Counter.</li>
-<li>Fill in the name of your counter, and all necessary details in the right-hand panel.</li>
-<li>Click **Add Slides** to add the pictures for your counter. You can select several images at once. You can use PNG images with different shapes by using transparency, but note that the first image is used as a shape template: all the other images are resized and cropped to correspond the first image.</li>
-<li>Set the thickness and side color of the picture counter, if required.</li>
-<li>Click **Publish**.</li>
-</ol>
+* **Плоские кубики** Графические счетчики поддерживают те же команды, что и кубики:
+    * установить значение
+    * перевернуть (следующее значение)
+    * получить случайное значение (бросить)
+
+    ![dice](http://help.tabletopia.com/wp-content/uploads/2015/12/dice-320x162.jpg)Flat dice.
+
+    Это значит, что графические счетчики можно использовать как обычный кубик (или монетку) и у них будет следующие преимущества:
+
+    * могут быть плоские, что может быть более стильно и компактно
+    * могут иметь любое количество граней до 24
+    * грани могут иметь любую форму
+
+    Однако имейте ввиду, что новые игроки могут не сразу понять как использовать графические счетчики вместо кубиков, потому что они выглядят иначе.
+
+## Создание графического счетчика
+
+**Чтобы создать графический счетчик:**
+
+1. Передите в [Workshop](https://tabletopia.com/workshop) &gt; Objects.
+2. Нажжмите **Create Object &gt; Picture Counter**.
+3. Заполните все необходимые поля в панели справа.
+4. Нажмите **Add Slides**, чтобы добавить изображения для счетчика. Вы можете выбрать несколько изображений одновременно. Чтобы создать счетчик разной формы при помощи прозрачночти, используйте изображения в формате .PNG. Имейте ввиду, что первое изображение будет использовано как шаблон формы: размер всех последующих изображений будет изменен, и они будут обрезаны, чтобы соответствовать первому изображению.
+5. Установите толщину и цвет торца графического счетчика, если требуется.
+6. Нажмите **Publish**.
+
+> **Совет:** Называйте все стороны понятно, т.к. название будет видно игрокам в течении партии.
+
 ![creation](http://help.tabletopia.com/wp-content/uploads/2015/12/creation.jpg)
-**Tip:** Consider giving appropriate names to all slides, because they are shown to players during the game.
-								<div class="tags">
-					</div>
-				</div>

@@ -19,5 +19,5 @@
 * [Игровые фишки (миниатюры)](game-piece.md)
 * [Мешочек](bag.md)
 * [Музыкальный проигрыватель](music-box.md)
-* [Графический счетчик](http://help.tabletopia.com/knowledge-base/picture-counter/)
+* [Графический счетчик](picture-counter.md)
 * [Столы, покрытия и фоны](tables-surfaces-and-skyboxes.md)
