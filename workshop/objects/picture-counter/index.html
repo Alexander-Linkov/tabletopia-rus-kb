@@ -15,7 +15,7 @@
     
     
       
-        <title>Карта - Tabletopia - Русская база знаний</title>
+        <title>Графический счетчик - Tabletopia - Русская база знаний</title>
       
     
     
@@ -76,7 +76,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Карта
+              Графический счетчик
             
           </span>
         </div>
@@ -382,60 +382,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        Карта
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,9H17V7H3V9M3,13H17V11H3V13M3,17H17V15H3V17M19,17H21V15H19V17M19,7V9H21V7H19M19,13H21V11H19V13Z" /></svg>
-        </span>
-      </label>
-    
-    <a href="./" title="Карта" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../card/" title="Карта" class="md-nav__link">
       Карта
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
-      </span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
-    О картах
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_3" class="md-nav__link">
-    Использование карт
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-    
   </li>
 
         
@@ -527,11 +478,67 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../picture-counter/" title="Графический счетчик" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Графический счетчик
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,9H17V7H3V9M3,13H17V11H3V13M3,17H17V15H3V17M19,17H21V15H19V17M19,7V9H21V7H19M19,13H21V11H19V13Z" /></svg>
+        </span>
+      </label>
+    
+    <a href="./" title="Графический счетчик" class="md-nav__link md-nav__link--active">
       Графический счетчик
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+      </span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    О графическом счетчике
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    Применение графических счетчиков
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creating-a-picture-counter" class="md-nav__link">
+    Creating a Picture Counter
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
         
@@ -638,14 +645,21 @@
       
         <li class="md-nav__item">
   <a href="#_2" class="md-nav__link">
-    О картах
+    О графическом счетчике
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#_3" class="md-nav__link">
-    Использование карт
+    Применение графических счетчиков
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creating-a-picture-counter" class="md-nav__link">
+    Creating a Picture Counter
   </a>
   
 </li>
@@ -666,36 +680,64 @@
                   
                 
                 
-                <h1 id="_1">Карта</h1>
-<h2 id="_2">О картах</h2>
-<p><img alt="spyfall_cards" src="http://help.tabletopia.com/wp-content/uploads/2015/06/spyfall_card.png" /></p>
-<p>Карта один из основных объектов в большинстве настольных игры. В Tabletopia карты можно вращать, переворачивать, собирать в колоды, перемешивать и брать их в руку, подробнее читайте в статье <a href="../../../playground/actions-with-game-objects/">Взаимодействие с игровыми компонентами</a>.</p>
-<p><strong>Возможности:</strong></p>
-<ul>
-<li><strong>Размер:</strong> до 1600&#215;1600 мм</li>
-<li><strong>Толщина:</strong> 0.2 мм</li>
-<li><strong>Поддержка магнитной карты:</strong> да</li>
-<li><strong>Поддрежка сложной формы:</strong> да</li>
-<li><strong>Возможность создать стопку\колоду:</strong> да</li>
-</ul>
-<blockquote>
-<p><strong>Совет:</strong> Вы можете собирать карты в колоды, подробнее читайте в статье <a href="../../enhance/randomizers/">Рандомайзеры</a>. Также эту возможность можно отключить (см. <a href="../../games/game-setups/">Сетап игры</a>).</p>
-</blockquote>
-<h2 id="_3">Использование карт</h2>
-<p><img alt="Игровая карта и памятка в игре Berserk: Knights and Villains" src="http://help.tabletopia.com/wp-content/uploads/2015/06/berserk_cards-320x413.png" /></p>
-<p>Вы можете использовать карты в различных ситуациях:</p>
+                <h1 id="_1">Графический счетчик</h1>
+<h2 id="_2">О графическом счетчике</h2>
+<p>Цифровой счетчик - несколько изображений (до 24) которые можно использовать для отслеживания различных параметров в игре. Вместо цифр, эти счетчики используют серию графических слайдов.</p>
+<p><img alt="Камень души в игре Sword and Sorcery" src="http://help.tabletopia.com/wp-content/uploads/2015/12/dial-320x320.jpg" /></p>
+<p>Графические счетчики можно использовать чтобы имитировать дисковые счетчики, а также наклейки и внутриигровые многостраничные брошюры. Их можно использовать как генератор случайности, как кубик, но плоский и имеющий от 1 до 24 уникальных граней.</p>
+<p>Пользователи могут перемещаться по слайдам вперед и назад (<strong>F</strong> или <strong>Shift-F</strong>), установить определенную сторону (контекстное меню) или получить случайный слайд (<strong>R</strong>).</p>
+<h2 id="_3">Применение графических счетчиков</h2>
+<p>Используйте графические счетчики в следующих случаях:</p>
 <ul>
 <li>
-<p><strong>Игровая карта.</strong> Основное применение этого объекта - использовать его как карту в игре. Карты можно собирать в <a href="../../enhance/randomizers/">случайные стопки</a> (колоды) или распологать их в определенном порядке.</p>
+<p><strong>Дисковые счетчики</strong> - Имитируйте дисковый счетчик используемый в игре - просто содайте полное изображение счетчика для каждого возможного значения. Также вы можете сделать новую, более компактную версию.</p>
 </li>
 <li>
-<p><strong>Карта памятки.</strong> На картах можно разместить краткую информацию о игре, например фазы раунда, список доступных действий, подсказа к иконографике игры, и проч.</p>
-<p>Памятка могут содержать информацию или подсказки на разных языках на каждой ее стороне.</p>
+<p><strong>Карты/жетоны изменяющиеся в течении игры</strong> Хороший пример таких объектов - компонеты из игр с механикой наследие (Legacy). Вы можете создать как счетчик целый объект или только его часть, разместив ее на большем объекте.</p>
+<p><img alt="Изменяемая карта" src="http://help.tabletopia.com/wp-content/uploads/2015/12/stickers1-320x446.jpg" /></p>
+<p><em>Текст способности или условия на таких картах представелн графическим счетчиком. Они могут изменяться в следствии игровых событий.</em></p>
 </li>
 <li>
-<p><strong>Игровое поле.</strong> Если игровое поле должно быть подвиным или его можно будет перевернуть в течении игры, вы можете его сделать как объект Карты. Если вам нужен более солидный объект, попробуйте использовать <a href="../tile/">Тайл</a>.</p>
+<p><strong>Индикаторы</strong> Иногда проще разместить графический счетчик как индикатор.</p>
+<p><img alt="Changeable card" src="http://help.tabletopia.com/wp-content/uploads/2015/12/stickers1-320x446.jpg" /></p>
+<p><em>В этом примере, игроки отмечают активируют ли они карту зеленым кубом. Создайте необъодимое количество игровых счетчиков с двумя слайдами - один зеленый и один темный. Закрепите счетчик в определенном месте и готово! Теперь игроки могут использовать F, чтобы переключения активации</em></p>
+</li>
+<li>
+<p><strong>Книги правил, многостраничные инструкции, и проч.</strong> Если вы используете большие книги правил мы не реомендуем использовать графический счетчик для этого. Используйте его для коротких правил, инструкций и проч. Размер файла от 1 до 3 Мб должно быть достаточно. Используйте .JPG для слайдов - это не увеличит значительно размер игры</p>
 </li>
 </ul>
+<ul>
+<li><b> ![dice](http://help.tabletopia.com/wp-content/uploads/2015/12/dice-320x162.jpg)Flat dice. </b>Picture counters have the same commands at your disposal as dice:</li>
+</ul>
+
+<ul>
+<li>set value</li>
+<li>flip (next value)</li>
+<li>randomise (roll)</li>
+</ul>
+
+<p>This means that picture counters can be used exactly as normal dice (or coin) and they have some advantages:
+<ul>
+<li>they can be flat, which is stylish and compact</li>
+<li>they can have any number up to 24 sides</li>
+<li>sides can be of any shape</li>
+</ul>
+Note that new players may not grasp from the beginning that these are used like dice, because they look different.</p>
+<h2 id="creating-a-picture-counter">Creating a Picture Counter</h2>
+<p><strong>To create a picture counter:</strong>
+<ol>
+<li>Go to <a href="https://tabletopia.com/workshop">Workshop</a> &gt; Objects.</li>
+<li>Click <strong>Create Object </strong>&gt; Picture Counter.</li>
+<li>Fill in the name of your counter, and all necessary details in the right-hand panel.</li>
+<li>Click <strong>Add Slides</strong> to add the pictures for your counter. You can select several images at once. You can use PNG images with different shapes by using transparency, but note that the first image is used as a shape template: all the other images are resized and cropped to correspond the first image.</li>
+<li>Set the thickness and side color of the picture counter, if required.</li>
+<li>Click <strong>Publish</strong>.</li>
+</ol>
+<img alt="creation" src="http://help.tabletopia.com/wp-content/uploads/2015/12/creation.jpg" />
+<strong>Tip:</strong> Consider giving appropriate names to all slides, because they are shown to players during the game.
+                                <div class="tags">
+                    </div>
+                </div></p>
                 
               
               
@@ -714,7 +756,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../game-board/" title="Игровое поле" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../music-box/" title="Музыальный проигрыватель" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
             </div>
@@ -723,19 +765,19 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Игровое поле
+                Музыальный проигрыватель
               </div>
             </div>
           </a>
         
         
-          <a href="../tile/" title="Тайлы" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../tables-surfaces-and-skyboxes/" title="Столы, Поверхности и Фоны" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Тайлы
+                Столы, Поверхности и Фоны
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
