@@ -72,7 +72,11 @@
 
 **Game on BGG** - Адрес игры на BGG, если есть. Это также покажет рейтинг игры на сайте.
 
-**ASIN** - Amazon Standard Identification Numbers (ASINs) - если ваша игра есть в Amazon, то вы знаете, что это такое (или смотрите [оригинальную документацию](https://help.tabletopia.com/knowledge-base/how-to-fill-in-a-game-form/#Fill)).
+**ASIN** - Amazon Standard Identification Numbers (ASINs) - уникальный блок из 10 цифр и/или букв которые идентифицируют товары. Вы можете найти ASIN товара на странице товара Amazon рядом с другими деталями товара.
+
+Введите ASIN вашей игры, чтобы добавить специальный блок на странице с игрой, который будет открывать страницу игры на amazon.com, где можно приобрести физическую копию игры.
+
+![ASIN Example](http://help.tabletopia.com/wp-content/uploads/2015/07/asin_example.png)
 
 **Age** - Минимальный возраст игроков.
 

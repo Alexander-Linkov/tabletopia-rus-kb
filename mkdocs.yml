@@ -27,5 +27,6 @@ nav:
         - Улучшение игры:
             - workshop/enhance/visual-design-guide.md
             - workshop/enhance/randomizers.md
+            - workshop/enhance/custom-sounds.md
 theme:
     name: "material"

@@ -7,7 +7,8 @@
 Каталог объектов хранит все объекты которые были загружены в Tabletopia и предоставляет доступ к их просмотру, изменению, копированию, перемещению и другим действиям.
 
 Чтобы открыть каталог объектов, перейдите в **Workshop** &gt; **Objects**.
-	![Screen Shot 2017-02-17 at 3.36.54 PM](http://help.tabletopia.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-17-at-3.36.54-PM.png)
+	
+![Screen Shot 2017-02-17 at 3.36.54 PM](http://help.tabletopia.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-17-at-3.36.54-PM.png)
 
 ## Основные разделы
 
